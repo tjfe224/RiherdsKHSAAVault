@@ -1,0 +1,8322 @@
+[
+  {
+    "matchId": "1232",
+    "date": "2022-08-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Todd County Central",
+      "id": "88080",
+      "score": 2
+    },
+    "loser": {
+      "name": "Hopkins County Central",
+      "id": "87990",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14347",
+    "date": "2022-08-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "87910",
+      "score": 1
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "88059",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11156",
+    "date": "2022-08-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Dixie Heights",
+      "id": "87947",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "88003",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "855",
+    "date": "2022-08-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands Latin",
+      "id": "87986",
+      "score": 5
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9050",
+    "date": "2022-08-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Model",
+      "id": "88022",
+      "score": 7
+    },
+    "loser": {
+      "name": "Rowan County",
+      "id": "88053",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11260",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Atherton",
+      "id": "87904",
+      "score": 5
+    },
+    "loser": {
+      "name": "Oldham County",
+      "id": "88036",
+      "score": 5
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7644",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Barren County",
+      "id": "87908",
+      "score": 10
+    },
+    "loser": {
+      "name": "Allen County-Scottsville",
+      "id": "87900",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11619",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt Central",
+      "id": "87923",
+      "score": 7
+    },
+    "loser": {
+      "name": "Grayson County",
+      "id": "87973",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "3672",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Cooper",
+      "id": "87940",
+      "score": 4
+    },
+    "loser": {
+      "name": "Simon Kenton",
+      "id": "88063",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11101",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "87954",
+      "score": 8
+    },
+    "loser": {
+      "name": "John Hardin",
+      "id": "87995",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11053",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 2
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "88059",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13299",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paducah Tilghman",
+      "id": "88040",
+      "score": 4
+    },
+    "loser": {
+      "name": "Trigg County",
+      "id": "88081",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15085",
+    "date": "2022-08-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "88067",
+      "score": 6
+    },
+    "loser": {
+      "name": "Franklin County",
+      "id": "87964",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14437",
+    "date": "2022-08-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Dixie Heights",
+      "id": "87947",
+      "score": 8
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "88059",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15607",
+    "date": "2022-08-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands Latin",
+      "id": "87986",
+      "score": 6
+    },
+    "loser": {
+      "name": "Trinity Christian",
+      "id": "88083",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Lexington Christian",
+    "tournament": "United in Christ Showcase",
+    "isChampionship": false
+  },
+  {
+    "matchId": "3673",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "87914",
+      "score": 2
+    },
+    "loser": {
+      "name": "Cooper",
+      "id": "87940",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4894",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "87917",
+      "score": 5
+    },
+    "loser": {
+      "name": "Madisonville-North Hopkins",
+      "id": "88010",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11256",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 1
+    },
+    "loser": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "FCPS Soccer Showcase",
+    "isChampionship": false
+  },
+  {
+    "matchId": "8937",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 1
+    },
+    "loser": {
+      "name": "Anderson County",
+      "id": "87901",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15335",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Christian",
+      "id": "88003",
+      "score": 6
+    },
+    "loser": {
+      "name": "Covington Latin",
+      "id": "87943",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "United in Christ Showcase",
+    "isChampionship": false
+  },
+  {
+    "matchId": "4169",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 6
+    },
+    "loser": {
+      "name": "Southwestern",
+      "id": "88070",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13455",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 3
+    },
+    "loser": {
+      "name": "Bryan Station",
+      "id": "87922",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "FCPS Soccer Showcase",
+    "isChampionship": false
+  },
+  {
+    "matchId": "9386",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "88064",
+      "score": 3
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12573",
+    "date": "2022-08-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 0
+    },
+    "loser": {
+      "name": "Western Hills",
+      "id": "88096",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4840",
+    "date": "2022-08-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "87950",
+      "score": 6
+    },
+    "loser": {
+      "name": "West Carter",
+      "id": "88094",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "5463",
+    "date": "2022-08-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "87965",
+      "score": 5
+    },
+    "loser": {
+      "name": "Warren East",
+      "id": "88091",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12578",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 4
+    },
+    "loser": {
+      "name": "Paducah Tilghman",
+      "id": "88040",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "649",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "87965",
+      "score": 7
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "88056",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11598",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "87966",
+      "score": 2
+    },
+    "loser": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14441",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "87985",
+      "score": 6
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10337",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkins County Central",
+      "id": "87990",
+      "score": 2
+    },
+    "loser": {
+      "name": "Trigg County",
+      "id": "88081",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2021",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "88000",
+      "score": 6
+    },
+    "loser": {
+      "name": "Pikeville",
+      "id": "88046",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15632",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "88012",
+      "score": 2
+    },
+    "loser": {
+      "name": "Fairdale",
+      "id": "87957",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "857",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 10
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "88097",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4171",
+    "date": "2022-08-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Southwestern",
+      "id": "88070",
+      "score": 3
+    },
+    "loser": {
+      "name": "Glasgow",
+      "id": "87970",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "546",
+    "date": "2022-08-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Powell County",
+      "id": "88049",
+      "score": 3
+    },
+    "loser": {
+      "name": "Wolfe County",
+      "id": "88100",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14571",
+    "date": "2022-08-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "88061",
+      "score": 2
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16660",
+    "date": "2022-08-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 5
+    },
+    "loser": {
+      "name": "Lyon County",
+      "id": "88007",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "2nd Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "858",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt Central",
+      "id": "87923",
+      "score": 6
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11431",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "87945",
+      "score": 2
+    },
+    "loser": {
+      "name": "Owensboro",
+      "id": "88038",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11980",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fort Knox",
+      "id": "87961",
+      "score": 3
+    },
+    "loser": {
+      "name": "Grayson County",
+      "id": "87973",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11474",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 1
+    },
+    "loser": {
+      "name": "Tates Creek",
+      "id": "88077",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12415",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "88013",
+      "score": 1
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16997",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Meade County",
+      "id": "88018",
+      "score": 2
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4173",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 4
+    },
+    "loser": {
+      "name": "Southwestern",
+      "id": "88070",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16632",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Bullitt",
+      "id": "88030",
+      "score": 6
+    },
+    "loser": {
+      "name": "Campbellsville",
+      "id": "87931",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2022",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pikeville",
+      "id": "88046",
+      "score": 5
+    },
+    "loser": {
+      "name": "Letcher County Central",
+      "id": "88001",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9760",
+    "date": "2022-08-18",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Simon Kenton",
+      "id": "88063",
+      "score": 1
+    },
+    "loser": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "859",
+    "date": "2022-08-19",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 4
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15618",
+    "date": "2022-08-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Allen County-Scottsville",
+      "id": "87900",
+      "score": 5
+    },
+    "loser": {
+      "name": "Logan County",
+      "id": "88005",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11261",
+    "date": "2022-08-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "loser": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2601",
+    "date": "2022-08-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Newport Central Catholic",
+      "id": "88029",
+      "score": 4
+    },
+    "loser": {
+      "name": "Campbell County",
+      "id": "87930",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4174",
+    "date": "2022-08-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Southwestern",
+      "id": "88070",
+      "score": 1
+    },
+    "loser": {
+      "name": "South Laurel",
+      "id": "88066",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2811",
+    "date": "2022-08-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "loser": {
+      "name": "Boyd County",
+      "id": "87918",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16777",
+    "date": "2022-08-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 3
+    },
+    "loser": {
+      "name": "Caldwell County",
+      "id": "87927",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17160",
+    "date": "2022-08-21",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "87903",
+      "score": 3
+    },
+    "loser": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Belfry",
+    "tournament": "Belfry Invitational Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "16726",
+    "date": "2022-08-21",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 1
+    },
+    "loser": {
+      "name": "George Rogers Clark",
+      "id": "87969",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7894",
+    "date": "2022-08-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Brown",
+      "id": "87921",
+      "score": 11
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "88097",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7668",
+    "date": "2022-08-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Edmonson County",
+      "id": "87953",
+      "score": 9
+    },
+    "loser": {
+      "name": "Allen County-Scottsville",
+      "id": "87900",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15611",
+    "date": "2022-08-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 2
+    },
+    "loser": {
+      "name": "Woodford County",
+      "id": "88101",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2812",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyd County",
+      "id": "87918",
+      "score": 1
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15547",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Campbell County",
+      "id": "87930",
+      "score": 2
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13164",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Latin",
+      "id": "87943",
+      "score": 5
+    },
+    "loser": {
+      "name": "Gallatin County",
+      "id": "87967",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "860",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fairdale",
+      "id": "87957",
+      "score": 4
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15640",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 4
+    },
+    "loser": {
+      "name": "Western Hills",
+      "id": "88096",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Bourbon County",
+    "tournament": "Kentucky 2A - Section 5",
+    "isChampionship": false
+  },
+  {
+    "matchId": "17236",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "88017",
+      "score": 5
+    },
+    "loser": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "41",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Hardin",
+      "id": "88031",
+      "score": 7
+    },
+    "loser": {
+      "name": "John Hardin",
+      "id": "87995",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "22616",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paducah Tilghman",
+      "id": "88040",
+      "score": 3
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13160",
+    "date": "2022-08-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "88061",
+      "score": 3
+    },
+    "loser": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7272",
+    "date": "2022-08-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Male",
+      "id": "88011",
+      "score": 7
+    },
+    "loser": {
+      "name": "Doss",
+      "id": "87948",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11292",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "87907",
+      "score": 4
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "88028",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2813",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyd County",
+      "id": "87918",
+      "score": 3
+    },
+    "loser": {
+      "name": "Rowan County",
+      "id": "88053",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15588",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin County",
+      "id": "87964",
+      "score": 3
+    },
+    "loser": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14348",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Harrison County",
+      "id": "87978",
+      "score": 1
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "88059",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "3193",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hart County",
+      "id": "87979",
+      "score": 2
+    },
+    "loser": {
+      "name": "Russell County",
+      "id": "88055",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Glasgow",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2881",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Meade County",
+      "id": "88018",
+      "score": 1
+    },
+    "loser": {
+      "name": "LaRue County",
+      "id": "87999",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "6712",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "88038",
+      "score": 1
+    },
+    "loser": {
+      "name": "Owensboro Catholic",
+      "id": "88039",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "861",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 7
+    },
+    "loser": {
+      "name": "North Bullitt",
+      "id": "88030",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4175",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Southwestern",
+      "id": "88070",
+      "score": 2
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "87951",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14443",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 2
+    },
+    "loser": {
+      "name": "Beechwood",
+      "id": "87910",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "12575",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Tates Creek",
+      "id": "88077",
+      "score": 2
+    },
+    "loser": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13163",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Taylor County",
+      "id": "88078",
+      "score": 4
+    },
+    "loser": {
+      "name": "Grayson County",
+      "id": "87973",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Glasgow",
+    "tournament": "Scotties Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "14370",
+    "date": "2022-08-25",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Woodford County",
+      "id": "88101",
+      "score": 2
+    },
+    "loser": {
+      "name": "South Oldham",
+      "id": "88067",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14349",
+    "date": "2022-08-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "87914",
+      "score": 2
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "88059",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11387",
+    "date": "2022-08-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Glasgow",
+      "id": "87970",
+      "score": 6
+    },
+    "loser": {
+      "name": "Grayson County",
+      "id": "87973",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2882",
+    "date": "2022-08-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "LaRue County",
+      "id": "87999",
+      "score": 5
+    },
+    "loser": {
+      "name": "Campbellsville",
+      "id": "87931",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18107",
+    "date": "2022-08-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Letcher County Central",
+      "id": "88001",
+      "score": 11
+    },
+    "loser": {
+      "name": "Buckhorn",
+      "id": "89662",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18190",
+    "date": "2022-08-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Newport Central Catholic",
+      "id": "88029",
+      "score": 3
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "13461",
+    "date": "2022-08-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 2
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12830",
+    "date": "2022-08-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Sayre",
+      "id": "88058",
+      "score": 5
+    },
+    "loser": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17464",
+    "date": "2022-08-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Harlan County",
+      "id": "87977",
+      "score": 4
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "89673",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17007",
+    "date": "2022-08-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ohio County",
+      "id": "88035",
+      "score": 7
+    },
+    "loser": {
+      "name": "Fort Campbell",
+      "id": "87960",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18917",
+    "date": "2022-08-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Rowan County",
+      "id": "88053",
+      "score": 3
+    },
+    "loser": {
+      "name": "Mason County",
+      "id": "88015",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15173",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "87914",
+      "score": 1
+    },
+    "loser": {
+      "name": "Holy Cross (Covington)",
+      "id": "87988",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4348",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 6
+    },
+    "loser": {
+      "name": "Mayfield",
+      "id": "88016",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9580",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Central Hardin",
+      "id": "87935",
+      "score": 4
+    },
+    "loser": {
+      "name": "Elizabethtown",
+      "id": "87954",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13417",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Christian Academy-Louisville",
+      "id": "87936",
+      "score": 5
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "88028",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7632",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "87965",
+      "score": 10
+    },
+    "loser": {
+      "name": "Logan County",
+      "id": "88005",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11263",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "87966",
+      "score": 4
+    },
+    "loser": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11477",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 1
+    },
+    "loser": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19012",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Meade County",
+      "id": "88018",
+      "score": 1
+    },
+    "loser": {
+      "name": "Grayson County",
+      "id": "87973",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11604",
+    "date": "2022-08-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 3
+    },
+    "loser": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18910",
+    "date": "2022-08-31",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frankfort",
+      "id": "87962",
+      "score": 3
+    },
+    "loser": {
+      "name": "Model",
+      "id": "88022",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "11th Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "18624",
+    "date": "2022-08-31",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Moore",
+      "id": "88025",
+      "score": 11
+    },
+    "loser": {
+      "name": "Brown",
+      "id": "87921",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18349",
+    "date": "2022-08-31",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren Central",
+      "id": "88090",
+      "score": 1
+    },
+    "loser": {
+      "name": "Franklin-Simpson",
+      "id": "87965",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "Kentucky 2A - Section 2",
+    "isChampionship": false
+  },
+  {
+    "matchId": "10561",
+    "date": "2022-08-31",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 5
+    },
+    "loser": {
+      "name": "Holmes",
+      "id": "87987",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15174",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "87910",
+      "score": 1
+    },
+    "loser": {
+      "name": "Holy Cross (Covington)",
+      "id": "87988",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14445",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "87942",
+      "score": 3
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "5913",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 6
+    },
+    "loser": {
+      "name": "Central",
+      "id": "87934",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "6192",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "87985",
+      "score": 2
+    },
+    "loser": {
+      "name": "Kentucky Country Day",
+      "id": "87997",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19496",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "88012",
+      "score": 3
+    },
+    "loser": {
+      "name": "Taylor County",
+      "id": "88078",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "Kentucky 2A - Section 4",
+    "isChampionship": false
+  },
+  {
+    "matchId": "864",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Meade County",
+      "id": "88018",
+      "score": 1
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12651",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 4
+    },
+    "loser": {
+      "name": "Franklin County",
+      "id": "87964",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12160",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pendleton County",
+      "id": "88044",
+      "score": 3
+    },
+    "loser": {
+      "name": "Villa Madonna",
+      "id": "88086",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11882",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Waggener",
+      "id": "88087",
+      "score": 10
+    },
+    "loser": {
+      "name": "Valley",
+      "id": "88085",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10667",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Western Hills",
+      "id": "88096",
+      "score": 2
+    },
+    "loser": {
+      "name": "Thomas Nelson",
+      "id": "88079",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "550",
+    "date": "2022-09-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Wolfe County",
+      "id": "88100",
+      "score": 10
+    },
+    "loser": {
+      "name": "Buckhorn",
+      "id": "89662",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19282",
+    "date": "2022-09-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "87914",
+      "score": 6
+    },
+    "loser": {
+      "name": "Paris",
+      "id": "88042",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "10th Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "14032",
+    "date": "2022-09-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 4
+    },
+    "loser": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19268",
+    "date": "2022-09-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Shelby County",
+      "id": "88062",
+      "score": 3
+    },
+    "loser": {
+      "name": "Anderson County",
+      "id": "87901",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19623",
+    "date": "2022-09-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "88064",
+      "score": 6
+    },
+    "loser": {
+      "name": "Danville",
+      "id": "87944",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "12th Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "15646",
+    "date": "2022-09-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset Christian School",
+      "id": "88065",
+      "score": 5
+    },
+    "loser": {
+      "name": "Wayne County",
+      "id": "88092",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11483",
+    "date": "2022-09-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "South Laurel",
+      "id": "88066",
+      "score": 1
+    },
+    "loser": {
+      "name": "Prestonsburg",
+      "id": "88050",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12687",
+    "date": "2022-09-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "88068",
+      "score": 3
+    },
+    "loser": {
+      "name": "Elizabethtown",
+      "id": "87954",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bowling Green",
+    "tournament": "Purples Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "6844",
+    "date": "2022-09-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Estill County",
+      "id": "87955",
+      "score": 8
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "88041",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18127",
+    "date": "2022-09-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Trigg County",
+      "id": "88081",
+      "score": 3
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "88056",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19841",
+    "date": "2022-09-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren Central",
+      "id": "88090",
+      "score": 6
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "Kentucky 2A Championships",
+    "isChampionship": false
+  },
+  {
+    "matchId": "11105",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "87907",
+      "score": 1
+    },
+    "loser": {
+      "name": "John Hardin",
+      "id": "87995",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15248",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 10
+    },
+    "loser": {
+      "name": "Oneida Baptist Institute",
+      "id": "89682",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "8299",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Grayson County",
+      "id": "87973",
+      "score": 10
+    },
+    "loser": {
+      "name": "Butler County",
+      "id": "87926",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11476",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 6
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "88003",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11294",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Bullitt",
+      "id": "88030",
+      "score": 3
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "88028",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14575",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "88061",
+      "score": 1
+    },
+    "loser": {
+      "name": "Jeffersontown",
+      "id": "87994",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19675",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "88061",
+      "score": 4
+    },
+    "loser": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19637",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Mary",
+      "id": "88074",
+      "score": 3
+    },
+    "loser": {
+      "name": "Trigg County",
+      "id": "88081",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7662",
+    "date": "2022-09-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Western",
+      "id": "89667",
+      "score": 3
+    },
+    "loser": {
+      "name": "Valley",
+      "id": "88085",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19824",
+    "date": "2022-09-07",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 4
+    },
+    "loser": {
+      "name": "Rowan County",
+      "id": "88053",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "Kentucky 2A - Section 6",
+    "isChampionship": false
+  },
+  {
+    "matchId": "9762",
+    "date": "2022-09-07",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 1
+    },
+    "loser": {
+      "name": "Simon Kenton",
+      "id": "88063",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13188",
+    "date": "2022-09-07",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 9
+    },
+    "loser": {
+      "name": "Owen County",
+      "id": "88037",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20055",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "87914",
+      "score": 3
+    },
+    "loser": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19832",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 4
+    },
+    "loser": {
+      "name": "Belfry",
+      "id": "87911",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "Kentucky 2A Championships",
+    "isChampionship": false
+  },
+  {
+    "matchId": "7671",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Glasgow",
+      "id": "87970",
+      "score": 11
+    },
+    "loser": {
+      "name": "Allen County-Scottsville",
+      "id": "87900",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "865",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Louisville)",
+      "id": "87989",
+      "score": 2
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11104",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "John Hardin",
+      "id": "87995",
+      "score": 6
+    },
+    "loser": {
+      "name": "Fort Knox",
+      "id": "87961",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19830",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "88050",
+      "score": 10
+    },
+    "loser": {
+      "name": "Oneida Baptist Institute",
+      "id": "89682",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4390",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Russell",
+      "id": "88054",
+      "score": 5
+    },
+    "loser": {
+      "name": "Bath County",
+      "id": "87909",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15522",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "loser": {
+      "name": "Highlands",
+      "id": "87985",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18475",
+    "date": "2022-09-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Western Hills",
+      "id": "88096",
+      "score": 3
+    },
+    "loser": {
+      "name": "Franklin County",
+      "id": "87964",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "Capital City Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19827",
+    "date": "2022-09-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 7
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "88097",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7672",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Allen County-Scottsville",
+      "id": "87900",
+      "score": 7
+    },
+    "loser": {
+      "name": "Edmonson County",
+      "id": "87953",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "6845",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Berea",
+      "id": "87912",
+      "score": 4
+    },
+    "loser": {
+      "name": "Estill County",
+      "id": "87955",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19284",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "87914",
+      "score": 10
+    },
+    "loser": {
+      "name": "Calvary Christian",
+      "id": "87929",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "10th Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "18476",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin County",
+      "id": "87964",
+      "score": 3
+    },
+    "loser": {
+      "name": "Anderson County",
+      "id": "87901",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "Capital City Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "11056",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 4
+    },
+    "loser": {
+      "name": "Carroll County",
+      "id": "87932",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "Marshall Auto Group Cup",
+    "isChampionship": false
+  },
+  {
+    "matchId": "17250",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hart County",
+      "id": "87979",
+      "score": 12
+    },
+    "loser": {
+      "name": "Butler County",
+      "id": "87926",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11621",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 6
+    },
+    "loser": {
+      "name": "Bullitt Central",
+      "id": "87923",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18173",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Murray",
+      "id": "88027",
+      "score": 4
+    },
+    "loser": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "1st Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19164",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Bullitt",
+      "id": "88030",
+      "score": 6
+    },
+    "loser": {
+      "name": "Campbellsville",
+      "id": "87931",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15055",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 4
+    },
+    "loser": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11269",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 2
+    },
+    "loser": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7428",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Shelby County",
+      "id": "88062",
+      "score": 4
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Grant County",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21015",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "88064",
+      "score": 3
+    },
+    "loser": {
+      "name": "Perry County Central",
+      "id": "88045",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": "Tribe Shootout",
+    "isChampionship": false
+  },
+  {
+    "matchId": "12574",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "South Laurel",
+      "id": "88066",
+      "score": 2
+    },
+    "loser": {
+      "name": "Taylor County",
+      "id": "88078",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20679",
+    "date": "2022-09-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Todd County Central",
+      "id": "88080",
+      "score": 6
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "88056",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "4th Region All \"A\" Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "18755",
+    "date": "2022-09-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "87917",
+      "score": 7
+    },
+    "loser": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2033",
+    "date": "2022-09-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pikeville",
+      "id": "88046",
+      "score": 4
+    },
+    "loser": {
+      "name": "Letcher County Central",
+      "id": "88001",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4181",
+    "date": "2022-09-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Wayne County",
+      "id": "88092",
+      "score": 4
+    },
+    "loser": {
+      "name": "Southwestern",
+      "id": "88070",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7673",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Allen County-Scottsville",
+      "id": "87900",
+      "score": 7
+    },
+    "loser": {
+      "name": "Butler County",
+      "id": "87926",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "866",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "87907",
+      "score": 4
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11268",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bryan Station",
+      "id": "87922",
+      "score": 1
+    },
+    "loser": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12576",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 4
+    },
+    "loser": {
+      "name": "South Laurel",
+      "id": "88066",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2029",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "87996",
+      "score": 6
+    },
+    "loser": {
+      "name": "Pikeville",
+      "id": "88046",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20634",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Male",
+      "id": "88011",
+      "score": 1
+    },
+    "loser": {
+      "name": "Brown",
+      "id": "87921",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10386",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Russell",
+      "id": "88054",
+      "score": 10
+    },
+    "loser": {
+      "name": "St. Patrick",
+      "id": "88075",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14350",
+    "date": "2022-09-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott",
+      "id": "88059",
+      "score": 4
+    },
+    "loser": {
+      "name": "Pendleton County",
+      "id": "88044",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11071",
+    "date": "2022-09-14",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "88006",
+      "score": 10
+    },
+    "loser": {
+      "name": "Walton-Verona",
+      "id": "88089",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "547",
+    "date": "2022-09-14",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Powell County",
+      "id": "88049",
+      "score": 4
+    },
+    "loser": {
+      "name": "Wolfe County",
+      "id": "88100",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10558",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 8
+    },
+    "loser": {
+      "name": "Holmes",
+      "id": "87987",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7206",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Latin",
+      "id": "87943",
+      "score": 5
+    },
+    "loser": {
+      "name": "St. Patrick",
+      "id": "88075",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11058",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 2
+    },
+    "loser": {
+      "name": "Pendleton County",
+      "id": "88044",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11270",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 0
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "3340",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkinsville",
+      "id": "87991",
+      "score": 3
+    },
+    "loser": {
+      "name": "Muhlenberg County",
+      "id": "88026",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4351",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Murray",
+      "id": "88027",
+      "score": 8
+    },
+    "loser": {
+      "name": "Mayfield",
+      "id": "88016",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "867",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 8
+    },
+    "loser": {
+      "name": "Central",
+      "id": "87934",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12702",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Wayne County",
+      "id": "88092",
+      "score": 1
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12047",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Western Hills",
+      "id": "88096",
+      "score": 1
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "87951",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14662",
+    "date": "2022-09-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Whitley County",
+      "id": "88098",
+      "score": 8
+    },
+    "loser": {
+      "name": "Oneida Baptist Institute",
+      "id": "89682",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21810",
+    "date": "2022-09-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 3
+    },
+    "loser": {
+      "name": "Christian Academy-Louisville",
+      "id": "87936",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Owensboro",
+    "tournament": "Kentucky 2A Championships",
+    "isChampionship": false
+  },
+  {
+    "matchId": "7360",
+    "date": "2022-09-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 5
+    },
+    "loser": {
+      "name": "Covington Latin",
+      "id": "87943",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7891",
+    "date": "2022-09-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkins County Central",
+      "id": "87990",
+      "score": 6
+    },
+    "loser": {
+      "name": "Lyon County",
+      "id": "88007",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20599",
+    "date": "2022-09-16",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren Central",
+      "id": "88090",
+      "score": 2
+    },
+    "loser": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "Kentucky 2A Championships",
+    "isChampionship": false
+  },
+  {
+    "matchId": "17855",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "87910",
+      "score": 3
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "776",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt East",
+      "id": "87924",
+      "score": 7
+    },
+    "loser": {
+      "name": "Webster County",
+      "id": "88093",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Madisonville-North Hopkins",
+    "tournament": "Donley Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "12637",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Edmonson County",
+      "id": "87953",
+      "score": 5
+    },
+    "loser": {
+      "name": "Monroe County",
+      "id": "88023",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21329",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hazard",
+      "id": "87980",
+      "score": 5
+    },
+    "loser": {
+      "name": "Oneida Baptist Institute",
+      "id": "89682",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "13/14 All \"A\" Classic Sectional Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "18125",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Jackson City",
+      "id": "87993",
+      "score": 5
+    },
+    "loser": {
+      "name": "Estill County",
+      "id": "87955",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2603",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Newport Central Catholic",
+      "id": "88029",
+      "score": 3
+    },
+    "loser": {
+      "name": "Bishop Brossart",
+      "id": "87914",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20667",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro Catholic",
+      "id": "88039",
+      "score": 2
+    },
+    "loser": {
+      "name": "Todd County Central",
+      "id": "88080",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "3rd and 4th Region All \"A\" Classic Sectional",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22362",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 8
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "88097",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Sellersburg, Ind.",
+    "tournament": "Hass Cup",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19926",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 2
+    },
+    "loser": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21793",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren Central",
+      "id": "88090",
+      "score": 5
+    },
+    "loser": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": "Kentucky 2A Championships",
+    "isChampionship": false
+  },
+  {
+    "matchId": "775",
+    "date": "2022-09-17",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Webster County",
+      "id": "88093",
+      "score": 4
+    },
+    "loser": {
+      "name": "Meade County",
+      "id": "88018",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Madisonville-North Hopkins",
+    "tournament": "Donley Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "5408",
+    "date": "2022-09-19",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Carroll County",
+      "id": "87932",
+      "score": 2
+    },
+    "loser": {
+      "name": "Gallatin County",
+      "id": "87967",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "8167",
+    "date": "2022-09-19",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 3
+    },
+    "loser": {
+      "name": "Seneca",
+      "id": "88061",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13190",
+    "date": "2022-09-19",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 9
+    },
+    "loser": {
+      "name": "Owen County",
+      "id": "88037",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21459",
+    "date": "2022-09-19",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Heritage (Hopkinsville)",
+      "id": "87984",
+      "score": 7
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "88056",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Heritage Christian",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13441",
+    "date": "2022-09-19",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lafayette",
+      "id": "87998",
+      "score": 5
+    },
+    "loser": {
+      "name": "Great Crossing",
+      "id": "87974",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "Warhawk Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20255",
+    "date": "2022-09-19",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "88050",
+      "score": 7
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "88041",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11059",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "87910",
+      "score": 1
+    },
+    "loser": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1610",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "87949",
+      "score": 3
+    },
+    "loser": {
+      "name": "Moore",
+      "id": "88025",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21779",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hart County",
+      "id": "87979",
+      "score": 7
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "88056",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13042",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Middlesboro",
+      "id": "88021",
+      "score": 7
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "89673",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12909",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paris",
+      "id": "88042",
+      "score": 3
+    },
+    "loser": {
+      "name": "Pendleton County",
+      "id": "88044",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "869",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 2
+    },
+    "loser": {
+      "name": "Doss",
+      "id": "87948",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20078",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Russell",
+      "id": "88054",
+      "score": 6
+    },
+    "loser": {
+      "name": "Greenup County",
+      "id": "87975",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11478",
+    "date": "2022-09-20",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Woodford County",
+      "id": "88101",
+      "score": 0
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12048",
+    "date": "2022-09-21",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "East Jessamine",
+      "id": "87951",
+      "score": 2
+    },
+    "loser": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11045",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 6
+    },
+    "loser": {
+      "name": "Garrard County",
+      "id": "87968",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21474",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Brown",
+      "id": "87921",
+      "score": 5
+    },
+    "loser": {
+      "name": "Waggener",
+      "id": "88087",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12831",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 1
+    },
+    "loser": {
+      "name": "Jeffersontown",
+      "id": "87994",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12417",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "88013",
+      "score": 4
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11214",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 1
+    },
+    "loser": {
+      "name": "Somerset Christian School",
+      "id": "88065",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "8207",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott",
+      "id": "88059",
+      "score": 4
+    },
+    "loser": {
+      "name": "Campbell County",
+      "id": "87930",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17315",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "88061",
+      "score": 6
+    },
+    "loser": {
+      "name": "Valley",
+      "id": "88085",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14475",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Tates Creek",
+      "id": "88077",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "88003",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13168",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Taylor County",
+      "id": "88078",
+      "score": 11
+    },
+    "loser": {
+      "name": "Campbellsville",
+      "id": "87931",
+      "score": 4
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17251",
+    "date": "2022-09-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren East",
+      "id": "88091",
+      "score": 10
+    },
+    "loser": {
+      "name": "Butler County",
+      "id": "87926",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15642",
+    "date": "2022-09-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 4
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown Sportspark",
+    "tournament": "Bruin Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22431",
+    "date": "2022-09-23",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Villa Madonna",
+      "id": "88086",
+      "score": 1
+    },
+    "loser": {
+      "name": "St. Patrick",
+      "id": "88075",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14426",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "87907",
+      "score": 2
+    },
+    "loser": {
+      "name": "Meade County",
+      "id": "88018",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20336",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Belfry",
+      "id": "87911",
+      "score": 1
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "88041",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13542",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bryan Station",
+      "id": "87922",
+      "score": 5
+    },
+    "loser": {
+      "name": "Holy Cross (Covington)",
+      "id": "87988",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown Sportspark",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "5936",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Caldwell County",
+      "id": "87927",
+      "score": 1
+    },
+    "loser": {
+      "name": "Graves County",
+      "id": "87972",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Christian County",
+    "tournament": "Colonel Showcase",
+    "isChampionship": false
+  },
+  {
+    "matchId": "13169",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "87954",
+      "score": 11
+    },
+    "loser": {
+      "name": "Taylor County",
+      "id": "88078",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15054",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 3
+    },
+    "loser": {
+      "name": "Greenwood",
+      "id": "87976",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Fairdale",
+    "tournament": "King of the Bluegrass",
+    "isChampionship": false
+  },
+  {
+    "matchId": "18260",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkinsville",
+      "id": "87991",
+      "score": 10
+    },
+    "loser": {
+      "name": "Lyon County",
+      "id": "88007",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Christian County",
+    "tournament": "Colonel Showcase",
+    "isChampionship": false
+  },
+  {
+    "matchId": "13102",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "loser": {
+      "name": "Ashland Blazer",
+      "id": "87903",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20080",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "88000",
+      "score": 4
+    },
+    "loser": {
+      "name": "Greenup County",
+      "id": "87975",
+      "score": 4
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11073",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "88006",
+      "score": 10
+    },
+    "loser": {
+      "name": "Prestonsburg",
+      "id": "88050",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Frankfort",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "22644",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "88006",
+      "score": 3
+    },
+    "loser": {
+      "name": "Newport Central Catholic",
+      "id": "88029",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Frankfort",
+    "tournament": "All \"A\" Classic State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21057",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Madisonville-North Hopkins",
+      "id": "88010",
+      "score": 6
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown Sportspark",
+    "tournament": "Bruin Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21851",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Newport Central Catholic",
+      "id": "88029",
+      "score": 2
+    },
+    "loser": {
+      "name": "Murray",
+      "id": "88027",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Frankfort",
+    "tournament": "All \"A\" Classic State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "11460",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 1
+    },
+    "loser": {
+      "name": "Daviess County",
+      "id": "87945",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown Sportspark",
+    "tournament": "Bruin Classic",
+    "isChampionship": false
+  },
+  {
+    "matchId": "12162",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 4
+    },
+    "loser": {
+      "name": "Villa Madonna",
+      "id": "88086",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2169",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 4
+    },
+    "loser": {
+      "name": "McCracken County",
+      "id": "88017",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18394",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Wayne County",
+      "id": "88092",
+      "score": 10
+    },
+    "loser": {
+      "name": "Barbourville",
+      "id": "87906",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12836",
+    "date": "2022-09-24",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Whitley County",
+      "id": "88098",
+      "score": 10
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "89673",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13687",
+    "date": "2022-09-26",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Brown",
+      "id": "87921",
+      "score": 10
+    },
+    "loser": {
+      "name": "Central",
+      "id": "87934",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10672",
+    "date": "2022-09-26",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "DeSales",
+      "id": "87946",
+      "score": 4
+    },
+    "loser": {
+      "name": "Thomas Nelson",
+      "id": "88079",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11295",
+    "date": "2022-09-26",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fort Knox",
+      "id": "87961",
+      "score": 2
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "88028",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15574",
+    "date": "2022-09-26",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hazard",
+      "id": "87980",
+      "score": 4
+    },
+    "loser": {
+      "name": "Oneida Baptist Institute",
+      "id": "89682",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7666",
+    "date": "2022-09-26",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Waggener",
+      "id": "88087",
+      "score": 2
+    },
+    "loser": {
+      "name": "Western",
+      "id": "89667",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14318",
+    "date": "2022-09-26",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Whitley County",
+      "id": "88098",
+      "score": 1
+    },
+    "loser": {
+      "name": "Russell County",
+      "id": "88055",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13103",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "87903",
+      "score": 2
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19104",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt Central",
+      "id": "87923",
+      "score": 1
+    },
+    "loser": {
+      "name": "Doss",
+      "id": "87948",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20248",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "87996",
+      "score": 7
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "88041",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21192",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 0
+    },
+    "loser": {
+      "name": "North Hardin",
+      "id": "88031",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13772",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Southern",
+      "id": "88009",
+      "score": 5
+    },
+    "loser": {
+      "name": "Lincoln County",
+      "id": "88004",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2170",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "88017",
+      "score": 6
+    },
+    "loser": {
+      "name": "Murray",
+      "id": "88027",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12583",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 4
+    },
+    "loser": {
+      "name": "South Laurel",
+      "id": "88066",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "8727",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Sayre",
+      "id": "88058",
+      "score": 0
+    },
+    "loser": {
+      "name": "Trinity Christian",
+      "id": "88083",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14476",
+    "date": "2022-09-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Tates Creek",
+      "id": "88077",
+      "score": 10
+    },
+    "loser": {
+      "name": "Franklin County",
+      "id": "87964",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20976",
+    "date": "2022-09-28",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Greenup County",
+      "id": "87975",
+      "score": 3
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "88041",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9756",
+    "date": "2022-09-28",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "88006",
+      "score": 3
+    },
+    "loser": {
+      "name": "DuPont Manual",
+      "id": "87949",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10671",
+    "date": "2022-09-28",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 2
+    },
+    "loser": {
+      "name": "Thomas Nelson",
+      "id": "88079",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "23287",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 7
+    },
+    "loser": {
+      "name": "Caldwell County",
+      "id": "87927",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13162",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 7
+    },
+    "loser": {
+      "name": "Belfry",
+      "id": "87911",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12046",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "East Jessamine",
+      "id": "87951",
+      "score": 2
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "88003",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13157",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 5
+    },
+    "loser": {
+      "name": "Trinity Christian",
+      "id": "88083",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "3396",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "LaRue County",
+      "id": "87999",
+      "score": 4
+    },
+    "loser": {
+      "name": "Barren County",
+      "id": "87908",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "8300",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Logan County",
+      "id": "88005",
+      "score": 7
+    },
+    "loser": {
+      "name": "Butler County",
+      "id": "87926",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13041",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Middlesboro",
+      "id": "88021",
+      "score": 6
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "89673",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "22355",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "88068",
+      "score": 3
+    },
+    "loser": {
+      "name": "Marshall County",
+      "id": "88013",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14457",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 6
+    },
+    "loser": {
+      "name": "Pendleton County",
+      "id": "88044",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21040",
+    "date": "2022-09-29",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Waggener",
+      "id": "88087",
+      "score": 2
+    },
+    "loser": {
+      "name": "Doss",
+      "id": "87948",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "22669",
+    "date": "2022-09-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "88006",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "21595",
+    "date": "2022-09-30",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "South Laurel",
+      "id": "88066",
+      "score": 7
+    },
+    "loser": {
+      "name": "Barbourville",
+      "id": "87906",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4748",
+    "date": "2022-10-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Berea",
+      "id": "87912",
+      "score": 2
+    },
+    "loser": {
+      "name": "Paris",
+      "id": "88042",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "23354",
+    "date": "2022-10-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Glasgow",
+      "id": "87970",
+      "score": 2
+    },
+    "loser": {
+      "name": "Barren County",
+      "id": "87908",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Warren East",
+    "tournament": "15th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "2040",
+    "date": "2022-10-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hazard",
+      "id": "87980",
+      "score": 4
+    },
+    "loser": {
+      "name": "Pikeville",
+      "id": "88046",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "23238",
+    "date": "2022-10-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paducah Tilghman",
+      "id": "88040",
+      "score": 2
+    },
+    "loser": {
+      "name": "St. Mary",
+      "id": "88074",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "1st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "11881",
+    "date": "2022-10-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 3
+    },
+    "loser": {
+      "name": "Ballard",
+      "id": "87905",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "23356",
+    "date": "2022-10-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren East",
+      "id": "88091",
+      "score": 10
+    },
+    "loser": {
+      "name": "Allen County-Scottsville",
+      "id": "87900",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "15th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23295",
+    "date": "2022-10-01",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 4
+    },
+    "loser": {
+      "name": "Wayne County",
+      "id": "88092",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "23218",
+    "date": "2022-10-02",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 5
+    },
+    "loser": {
+      "name": "Boone County",
+      "id": "87915",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "33rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23355",
+    "date": "2022-10-02",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren East",
+      "id": "88091",
+      "score": 1
+    },
+    "loser": {
+      "name": "Glasgow",
+      "id": "87970",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "15th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23360",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Anderson County",
+      "id": "87901",
+      "score": 1
+    },
+    "loser": {
+      "name": "Shelby County",
+      "id": "88062",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Woodford County",
+    "tournament": "30th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23215",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 7
+    },
+    "loser": {
+      "name": "Garrard County",
+      "id": "87968",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "45th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23217",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Danville",
+      "id": "87944",
+      "score": 4
+    },
+    "loser": {
+      "name": "Lincoln County",
+      "id": "88004",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Boyle County",
+    "tournament": "45th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23237",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Estill County",
+      "id": "87955",
+      "score": 4
+    },
+    "loser": {
+      "name": "Powell County",
+      "id": "88049",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "54th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23204",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 7
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "88097",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bullitt East",
+    "tournament": "24th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23579",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "87965",
+      "score": 10
+    },
+    "loser": {
+      "name": "Logan County",
+      "id": "88005",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "13th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23244",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Graves County",
+      "id": "87972",
+      "score": 4
+    },
+    "loser": {
+      "name": "Mayfield",
+      "id": "88016",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23500",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Harlan County",
+      "id": "87977",
+      "score": 7
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "89673",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "50th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23390",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hazard",
+      "id": "87980",
+      "score": 2
+    },
+    "loser": {
+      "name": "Letcher County Central",
+      "id": "88001",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "53rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22622",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 5
+    },
+    "loser": {
+      "name": "Sayre",
+      "id": "88058",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Great Crossing",
+    "tournament": "42nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23659",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "87996",
+      "score": 6
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "88041",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "57th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23712",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "87997",
+      "score": 2
+    },
+    "loser": {
+      "name": "Eastern",
+      "id": "87952",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "28th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23239",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "88017",
+      "score": 2
+    },
+    "loser": {
+      "name": "Paducah Tilghman",
+      "id": "88040",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "St. Mary",
+    "tournament": "1st District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23497",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 6
+    },
+    "loser": {
+      "name": "Trinity Christian",
+      "id": "88083",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "East Jessamine",
+    "tournament": "46th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23502",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Middlesboro",
+      "id": "88021",
+      "score": 4
+    },
+    "loser": {
+      "name": "Barbourville",
+      "id": "87906",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Knox Central",
+    "tournament": "50th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22289",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ohio County",
+      "id": "88035",
+      "score": 10
+    },
+    "loser": {
+      "name": "Muhlenberg County",
+      "id": "88026",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "10th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23365",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "88043",
+      "score": 4
+    },
+    "loser": {
+      "name": "Tates Creek",
+      "id": "88077",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "43rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23082",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Simon Kenton",
+      "id": "88063",
+      "score": 5
+    },
+    "loser": {
+      "name": "Walton-Verona",
+      "id": "88089",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "32nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23499",
+    "date": "2022-10-03",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 4
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "87951",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "46th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23675",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bethlehem",
+      "id": "87913",
+      "score": 1
+    },
+    "loser": {
+      "name": "Bardstown",
+      "id": "87907",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "19th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22312",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "87945",
+      "score": 2
+    },
+    "loser": {
+      "name": "Apollo",
+      "id": "87902",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Owensboro",
+    "tournament": "9th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22623",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "87966",
+      "score": 2
+    },
+    "loser": {
+      "name": "Henry Clay",
+      "id": "87982",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Great Crossing",
+    "tournament": "42nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23076",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "87981",
+      "score": 3
+    },
+    "loser": {
+      "name": "Webster County",
+      "id": "88093",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Union County",
+    "tournament": "6th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23403",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkins County Central",
+      "id": "87990",
+      "score": 2
+    },
+    "loser": {
+      "name": "Caldwell County",
+      "id": "87927",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23562",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkinsville",
+      "id": "87991",
+      "score": 2
+    },
+    "loser": {
+      "name": "Christian County",
+      "id": "87937",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Fort Campbell",
+    "tournament": "8th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23250",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "88000",
+      "score": 8
+    },
+    "loser": {
+      "name": "Pikeville",
+      "id": "88046",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Belfry",
+    "tournament": "58th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23245",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "88013",
+      "score": 3
+    },
+    "loser": {
+      "name": "Graves County",
+      "id": "87972",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23021",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Meade County",
+      "id": "88018",
+      "score": 10
+    },
+    "loser": {
+      "name": "Butler County",
+      "id": "87926",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Grayson County",
+    "tournament": "11th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23227",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Moore",
+      "id": "88025",
+      "score": 7
+    },
+    "loser": {
+      "name": "North Bullitt",
+      "id": "88030",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "23rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23463",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Laurel",
+      "id": "88033",
+      "score": 3
+    },
+    "loser": {
+      "name": "South Laurel",
+      "id": "88066",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Corbin",
+    "tournament": "49th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22314",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "88038",
+      "score": 2
+    },
+    "loser": {
+      "name": "Owensboro Catholic",
+      "id": "88039",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23252",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "88050",
+      "score": 1
+    },
+    "loser": {
+      "name": "Belfry",
+      "id": "87911",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "58th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23229",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Southern",
+      "id": "88069",
+      "score": 1
+    },
+    "loser": {
+      "name": "Bullitt Central",
+      "id": "87923",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "North Bullitt",
+    "tournament": "23rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23560",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 7
+    },
+    "loser": {
+      "name": "Fort Campbell",
+      "id": "87960",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "8th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22305",
+    "date": "2022-10-04",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "West Carter",
+      "id": "88094",
+      "score": 3
+    },
+    "loser": {
+      "name": "Greenup County",
+      "id": "87975",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Morgan County",
+    "tournament": "62nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23216",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 1
+    },
+    "loser": {
+      "name": "Danville",
+      "id": "87944",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "45th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23205",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt East",
+      "id": "87924",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "24th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23242",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 4
+    },
+    "loser": {
+      "name": "Murray",
+      "id": "88027",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Graves County",
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23358",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Collins",
+      "id": "87938",
+      "score": 3
+    },
+    "loser": {
+      "name": "Spencer County",
+      "id": "88071",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Woodford County",
+    "tournament": "30th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23437",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Dixie Heights",
+      "id": "87947",
+      "score": 4
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "34th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23501",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Harlan County",
+      "id": "87977",
+      "score": 3
+    },
+    "loser": {
+      "name": "Middlesboro",
+      "id": "88021",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Knox Central",
+    "tournament": "50th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22308",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "87985",
+      "score": 3
+    },
+    "loser": {
+      "name": "Newport Central Catholic",
+      "id": "88029",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "36th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23236",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Jackson City",
+      "id": "87993",
+      "score": 2
+    },
+    "loser": {
+      "name": "Estill County",
+      "id": "87955",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Powell County",
+    "tournament": "54th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23228",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Moore",
+      "id": "88025",
+      "score": 4
+    },
+    "loser": {
+      "name": "Southern",
+      "id": "88069",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "North Bullitt",
+    "tournament": "23rd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23350",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Hardin",
+      "id": "88031",
+      "score": 2
+    },
+    "loser": {
+      "name": "Central Hardin",
+      "id": "87935",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown",
+    "tournament": "17th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23083",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Simon Kenton",
+      "id": "88063",
+      "score": 3
+    },
+    "loser": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "32nd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23498",
+    "date": "2022-10-05",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 2
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "East Jessamine",
+    "tournament": "46th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23674",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bethlehem",
+      "id": "87913",
+      "score": 1
+    },
+    "loser": {
+      "name": "Thomas Nelson",
+      "id": "88079",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "19th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23359",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Collins",
+      "id": "87938",
+      "score": 2
+    },
+    "loser": {
+      "name": "Woodford County",
+      "id": "88101",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "30th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22313",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "87945",
+      "score": 4
+    },
+    "loser": {
+      "name": "Owensboro",
+      "id": "88038",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "9th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22306",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "87950",
+      "score": 2
+    },
+    "loser": {
+      "name": "West Carter",
+      "id": "88094",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Morgan County",
+    "tournament": "62nd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22621",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "87966",
+      "score": 3
+    },
+    "loser": {
+      "name": "Bryan Station",
+      "id": "87922",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Great Crossing",
+    "tournament": "42nd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23251",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "88000",
+      "score": 6
+    },
+    "loser": {
+      "name": "Prestonsburg",
+      "id": "88050",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Belfry",
+    "tournament": "58th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23404",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Madisonville-North Hopkins",
+      "id": "88010",
+      "score": 8
+    },
+    "loser": {
+      "name": "Hopkins County Central",
+      "id": "87990",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Caldwell County",
+    "tournament": "7th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23243",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "88013",
+      "score": 1
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Graves County",
+    "tournament": "2nd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23561",
+    "date": "2022-10-06",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 4
+    },
+    "loser": {
+      "name": "Hopkinsville",
+      "id": "87991",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Fort Campbell",
+    "tournament": "8th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24427",
+    "date": "2022-10-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Hazard",
+      "id": "87980",
+      "score": 3
+    },
+    "loser": {
+      "name": "Jackson City",
+      "id": "87993",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Letcher County Central",
+    "tournament": "14th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24425",
+    "date": "2022-10-08",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Perry County Central",
+      "id": "88045",
+      "score": 6
+    },
+    "loser": {
+      "name": "Estill County",
+      "id": "87955",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Letcher County Central",
+    "tournament": "14th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24576",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "87905",
+      "score": 5
+    },
+    "loser": {
+      "name": "Highlands Latin",
+      "id": "87986",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24300",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "87917",
+      "score": 10
+    },
+    "loser": {
+      "name": "Monroe County",
+      "id": "88023",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Warren Central",
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24580",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "87949",
+      "score": 4
+    },
+    "loser": {
+      "name": "Kentucky Country Day",
+      "id": "87997",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24421",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "87954",
+      "score": 10
+    },
+    "loser": {
+      "name": "LaRue County",
+      "id": "87999",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Thomas Nelson",
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24302",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "87965",
+      "score": 2
+    },
+    "loser": {
+      "name": "Glasgow",
+      "id": "87970",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Warren Central",
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24578",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "88076",
+      "score": 10
+    },
+    "loser": {
+      "name": "Francis Parker",
+      "id": "88072",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24423",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Thomas Nelson",
+      "id": "88079",
+      "score": 3
+    },
+    "loser": {
+      "name": "Marion County",
+      "id": "88012",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24582",
+    "date": "2022-10-09",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "88082",
+      "score": 5
+    },
+    "loser": {
+      "name": "Louisville Collegiate",
+      "id": "88006",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24643",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "87903",
+      "score": 3
+    },
+    "loser": {
+      "name": "Rowan County",
+      "id": "88053",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Greenup County",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24535",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 5
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "88051",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24589",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Collins",
+      "id": "87938",
+      "score": 6
+    },
+    "loser": {
+      "name": "Carroll County",
+      "id": "87932",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24419",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 10
+    },
+    "loser": {
+      "name": "Middlesboro",
+      "id": "88021",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Corbin Soccer Field",
+    "tournament": "13th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24420",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "87954",
+      "score": 8
+    },
+    "loser": {
+      "name": "Bethlehem",
+      "id": "87913",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Thomas Nelson",
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24641",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fleming County",
+      "id": "87959",
+      "score": 2
+    },
+    "loser": {
+      "name": "West Carter",
+      "id": "88094",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Greenup County",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24529",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frankfort",
+      "id": "87962",
+      "score": 2
+    },
+    "loser": {
+      "name": "Madison Central",
+      "id": "88008",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24527",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "87966",
+      "score": 3
+    },
+    "loser": {
+      "name": "Great Crossing",
+      "id": "87974",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24428",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "87981",
+      "score": 5
+    },
+    "loser": {
+      "name": "Hopkins County Central",
+      "id": "87990",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "2nd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24525",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 2
+    },
+    "loser": {
+      "name": "Madison Southern",
+      "id": "88009",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24533",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 3
+    },
+    "loser": {
+      "name": "Somerset Christian School",
+      "id": "88065",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24424",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Hardin",
+      "id": "88031",
+      "score": 3
+    },
+    "loser": {
+      "name": "Thomas Nelson",
+      "id": "88079",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24417",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Laurel",
+      "id": "88033",
+      "score": 10
+    },
+    "loser": {
+      "name": "Harlan County",
+      "id": "87977",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Corbin Soccer Field",
+    "tournament": "13th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24587",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Oldham",
+      "id": "88034",
+      "score": 1
+    },
+    "loser": {
+      "name": "Grant County",
+      "id": "87971",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24531",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "88043",
+      "score": 2
+    },
+    "loser": {
+      "name": "Bryan Station",
+      "id": "87922",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24426",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Perry County Central",
+      "id": "88045",
+      "score": 5
+    },
+    "loser": {
+      "name": "Hazard",
+      "id": "87980",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Letcher County Central",
+    "tournament": "14th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24585",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "88067",
+      "score": 3
+    },
+    "loser": {
+      "name": "Simon Kenton",
+      "id": "88063",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24304",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Todd County Central",
+      "id": "88080",
+      "score": 2
+    },
+    "loser": {
+      "name": "Russell County",
+      "id": "88055",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Warren Central",
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24430",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 2
+    },
+    "loser": {
+      "name": "Trigg County",
+      "id": "88081",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Henderson County",
+    "tournament": "2nd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24583",
+    "date": "2022-10-10",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Woodford County",
+      "id": "88101",
+      "score": 4
+    },
+    "loser": {
+      "name": "Henry County",
+      "id": "87983",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24464",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt East",
+      "id": "87924",
+      "score": 4
+    },
+    "loser": {
+      "name": "Southern",
+      "id": "88069",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Mercy",
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24466",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "87925",
+      "score": 5
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "88047",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24558",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "87942",
+      "score": 5
+    },
+    "loser": {
+      "name": "Conner",
+      "id": "87939",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24539",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Danville",
+      "id": "87944",
+      "score": 3
+    },
+    "loser": {
+      "name": "West Jessamine",
+      "id": "88095",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24540",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "87945",
+      "score": 11
+    },
+    "loser": {
+      "name": "Muhlenberg County",
+      "id": "88026",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "3rd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24468",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 1
+    },
+    "loser": {
+      "name": "Moore",
+      "id": "88025",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24562",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "87985",
+      "score": 3
+    },
+    "loser": {
+      "name": "Beechwood",
+      "id": "87910",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24490",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "88013",
+      "score": 2
+    },
+    "loser": {
+      "name": "Paducah Tilghman",
+      "id": "88040",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "1st Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24492",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "88017",
+      "score": 2
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "87928",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Marshall County",
+    "tournament": "1st Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24560",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 5
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "88073",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24537",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "88064",
+      "score": 4
+    },
+    "loser": {
+      "name": "Wayne County",
+      "id": "88092",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24577",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "88076",
+      "score": 3
+    },
+    "loser": {
+      "name": "Ballard",
+      "id": "87905",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Eastern",
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24581",
+    "date": "2022-10-11",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "88082",
+      "score": 1
+    },
+    "loser": {
+      "name": "DuPont Manual",
+      "id": "87949",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Eastern",
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24301",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "87917",
+      "score": 4
+    },
+    "loser": {
+      "name": "Franklin-Simpson",
+      "id": "87965",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Warren Central",
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24418",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "87941",
+      "score": 4
+    },
+    "loser": {
+      "name": "North Laurel",
+      "id": "88033",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Corbin Soccer Field",
+    "tournament": "13th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24422",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "87954",
+      "score": 2
+    },
+    "loser": {
+      "name": "North Hardin",
+      "id": "88031",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Thomas Nelson",
+    "tournament": "5th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24305",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Greenwood",
+      "id": "87976",
+      "score": 3
+    },
+    "loser": {
+      "name": "Todd County Central",
+      "id": "88080",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Warren Central",
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24429",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "87981",
+      "score": 3
+    },
+    "loser": {
+      "name": "University Heights",
+      "id": "88084",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "2nd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24575",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "87996",
+      "score": 4
+    },
+    "loser": {
+      "name": "Prestonsburg",
+      "id": "88050",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Martin County",
+    "tournament": "15th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24573",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "88000",
+      "score": 10
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "88041",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Martin County",
+    "tournament": "15th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24588",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Oldham",
+      "id": "88034",
+      "score": 2
+    },
+    "loser": {
+      "name": "Collins",
+      "id": "87938",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Carroll County",
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24584",
+    "date": "2022-10-12",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Woodford County",
+      "id": "88101",
+      "score": 2
+    },
+    "loser": {
+      "name": "South Oldham",
+      "id": "88067",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Carroll County",
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24303",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "87917",
+      "score": 4
+    },
+    "loser": {
+      "name": "Greenwood",
+      "id": "87976",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Warren Central",
+    "tournament": "4th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24640",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyd County",
+      "id": "87918",
+      "score": 4
+    },
+    "loser": {
+      "name": "Fleming County",
+      "id": "87959",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Greenup County",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24534",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 3
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "88020",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24467",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "87925",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fern Creek",
+      "id": "87958",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24557",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "87942",
+      "score": 2
+    },
+    "loser": {
+      "name": "Dixie Heights",
+      "id": "87947",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24538",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Danville",
+      "id": "87944",
+      "score": 2
+    },
+    "loser": {
+      "name": "Somerset",
+      "id": "88064",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24644",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "87950",
+      "score": 2
+    },
+    "loser": {
+      "name": "Ashland Blazer",
+      "id": "87903",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24526",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "87966",
+      "score": 4
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "88002",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24574",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "87996",
+      "score": 2
+    },
+    "loser": {
+      "name": "Lawrence County",
+      "id": "88000",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Martin County",
+    "tournament": "15th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24431",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Madisonville-North Hopkins",
+      "id": "88010",
+      "score": 5
+    },
+    "loser": {
+      "name": "Henderson County",
+      "id": "87981",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "2nd Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24491",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "88017",
+      "score": 2
+    },
+    "loser": {
+      "name": "Marshall County",
+      "id": "88013",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "1st Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24586",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "North Oldham",
+      "id": "88034",
+      "score": 1
+    },
+    "loser": {
+      "name": "Woodford County",
+      "id": "88101",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Carroll County",
+    "tournament": "8th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24530",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "88043",
+      "score": 4
+    },
+    "loser": {
+      "name": "Frankfort",
+      "id": "87962",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24561",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 2
+    },
+    "loser": {
+      "name": "Highlands",
+      "id": "87985",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Covington Catholic",
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "24579",
+    "date": "2022-10-13",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "88076",
+      "score": 2
+    },
+    "loser": {
+      "name": "Trinity (Louisville)",
+      "id": "88082",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Eastern",
+    "tournament": "7th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24642",
+    "date": "2022-10-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyd County",
+      "id": "87918",
+      "score": 2
+    },
+    "loser": {
+      "name": "East Carter",
+      "id": "87950",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Greenup County",
+    "tournament": "16th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24536",
+    "date": "2022-10-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "87919",
+      "score": 5
+    },
+    "loser": {
+      "name": "Danville",
+      "id": "87944",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "12th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24465",
+    "date": "2022-10-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "87925",
+      "score": 1
+    },
+    "loser": {
+      "name": "Bullitt East",
+      "id": "87924",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "6th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24528",
+    "date": "2022-10-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "88043",
+      "score": 2
+    },
+    "loser": {
+      "name": "Frederick Douglass",
+      "id": "87966",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": "11th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "24559",
+    "date": "2022-10-15",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 2
+    },
+    "loser": {
+      "name": "Covington Catholic",
+      "id": "87942",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "23620",
+    "date": "2022-10-22",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "88076",
+      "score": 1
+    },
+    "loser": {
+      "name": "Madisonville-North Hopkins",
+      "id": "88010",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "23626",
+    "date": "2022-10-27",
+    "year": 2022,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "88043",
+      "score": 4
+    },
+    "loser": {
+      "name": "Ryle",
+      "id": "88057",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Frederick Douglass High School, Lexington",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  }
+]

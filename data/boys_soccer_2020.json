@@ -1,0 +1,7422 @@
+[
+  {
+    "matchId": "14316",
+    "date": "2020-09-07",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "83797",
+      "score": 10
+    },
+    "loser": {
+      "name": "Logan County",
+      "id": "83881",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9920",
+    "date": "2020-09-07",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "83842",
+      "score": 5
+    },
+    "loser": {
+      "name": "Christian County",
+      "id": "83817",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11696",
+    "date": "2020-09-07",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Pendleton County",
+      "id": "83921",
+      "score": 2
+    },
+    "loser": {
+      "name": "Campbell County",
+      "id": "83810",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15401",
+    "date": "2020-09-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "83789",
+      "score": 4
+    },
+    "loser": {
+      "name": "Bishop Brossart",
+      "id": "83794",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12861",
+    "date": "2020-09-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 7
+    },
+    "loser": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11428",
+    "date": "2020-09-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 6
+    },
+    "loser": {
+      "name": "Collins",
+      "id": "83818",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13040",
+    "date": "2020-09-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 4
+    },
+    "loser": {
+      "name": "Middlesboro",
+      "id": "83897",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14048",
+    "date": "2020-09-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Powell County",
+      "id": "83926",
+      "score": 8
+    },
+    "loser": {
+      "name": "Letcher County Central",
+      "id": "83877",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9297",
+    "date": "2020-09-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "83951",
+      "score": 3
+    },
+    "loser": {
+      "name": "Elizabethtown",
+      "id": "83833",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14020",
+    "date": "2020-09-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Webster County",
+      "id": "83967",
+      "score": 5
+    },
+    "loser": {
+      "name": "Trigg County",
+      "id": "83956",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11654",
+    "date": "2020-09-09",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Estill County",
+      "id": "83834",
+      "score": 5
+    },
+    "loser": {
+      "name": "Jackson City",
+      "id": "83869",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14393",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 5
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "83831",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13567",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "83878",
+      "score": 1
+    },
+    "loser": {
+      "name": "Madison Southern",
+      "id": "83885",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7162",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Central",
+      "id": "83884",
+      "score": 5
+    },
+    "loser": {
+      "name": "North Laurel",
+      "id": "83909",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13180",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "83888",
+      "score": 2
+    },
+    "loser": {
+      "name": "Sayre",
+      "id": "83934",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "702",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "83893",
+      "score": 10
+    },
+    "loser": {
+      "name": "Paducah Tilghman",
+      "id": "83917",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11672",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Monroe County",
+      "id": "83899",
+      "score": 10
+    },
+    "loser": {
+      "name": "Allen County-Scottsville",
+      "id": "85551",
+      "score": 7
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1135",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Newport Central Catholic",
+      "id": "83906",
+      "score": 2
+    },
+    "loser": {
+      "name": "Beechwood",
+      "id": "83789",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1924",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ohio County",
+      "id": "83911",
+      "score": 6
+    },
+    "loser": {
+      "name": "Meade County",
+      "id": "83894",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1225",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "83940",
+      "score": 8
+    },
+    "loser": {
+      "name": "Whitley County",
+      "id": "83972",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13569",
+    "date": "2020-09-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Laurel",
+      "id": "83941",
+      "score": 3
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15106",
+    "date": "2020-09-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Harlan County",
+      "id": "83854",
+      "score": 3
+    },
+    "loser": {
+      "name": "Hazard",
+      "id": "83857",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15278",
+    "date": "2020-09-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Murray",
+      "id": "83904",
+      "score": 2
+    },
+    "loser": {
+      "name": "John Hardin",
+      "id": "83870",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12917",
+    "date": "2020-09-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 5
+    },
+    "loser": {
+      "name": "Letcher County Central",
+      "id": "83877",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7164",
+    "date": "2020-09-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott County",
+      "id": "83936",
+      "score": 3
+    },
+    "loser": {
+      "name": "North Laurel",
+      "id": "83909",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12989",
+    "date": "2020-09-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Tates Creek",
+      "id": "83952",
+      "score": 5
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "83878",
+      "score": 4
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14021",
+    "date": "2020-09-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Trigg County",
+      "id": "83956",
+      "score": 2
+    },
+    "loser": {
+      "name": "Muhlenberg County",
+      "id": "83903",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7165",
+    "date": "2020-09-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "North Laurel",
+      "id": "83909",
+      "score": 6
+    },
+    "loser": {
+      "name": "Estill County",
+      "id": "83834",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11197",
+    "date": "2020-09-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott County",
+      "id": "83936",
+      "score": 1
+    },
+    "loser": {
+      "name": "South Laurel",
+      "id": "83941",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "4758",
+    "date": "2020-09-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Morgan County",
+      "id": "83902",
+      "score": 4
+    },
+    "loser": {
+      "name": "Greenup County",
+      "id": "83852",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1224",
+    "date": "2020-09-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "83940",
+      "score": 3
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "83928",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7526",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Anderson County",
+      "id": "83780",
+      "score": 5
+    },
+    "loser": {
+      "name": "Shelby County",
+      "id": "83938",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16557",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Atherton",
+      "id": "83783",
+      "score": 4
+    },
+    "loser": {
+      "name": "Waggener",
+      "id": "83961",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13776",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "83784",
+      "score": 4
+    },
+    "loser": {
+      "name": "Christian Academy-Louisville",
+      "id": "83816",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10173",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "83799",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lincoln County",
+      "id": "83880",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14026",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 10
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "83928",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11430",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "83829",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fairdale",
+      "id": "83835",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14768",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "83833",
+      "score": 6
+    },
+    "loser": {
+      "name": "Bardstown",
+      "id": "83786",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15320",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 2
+    },
+    "loser": {
+      "name": "Beechwood",
+      "id": "83789",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14857",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "83871",
+      "score": 10
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "83918",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7239",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Southern",
+      "id": "83885",
+      "score": 3
+    },
+    "loser": {
+      "name": "Trinity Christian",
+      "id": "85545",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "704",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "83893",
+      "score": 2
+    },
+    "loser": {
+      "name": "Graves County",
+      "id": "83849",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13621",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Nelson County",
+      "id": "83905",
+      "score": 2
+    },
+    "loser": {
+      "name": "Taylor County",
+      "id": "83953",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14821",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott",
+      "id": "83935",
+      "score": 6
+    },
+    "loser": {
+      "name": "Campbell County",
+      "id": "83810",
+      "score": 5
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16366",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "83942",
+      "score": 1
+    },
+    "loser": {
+      "name": "Covington Catholic",
+      "id": "83822",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12990",
+    "date": "2020-09-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Tates Creek",
+      "id": "83952",
+      "score": 2
+    },
+    "loser": {
+      "name": "Frederick Douglass",
+      "id": "83843",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14188",
+    "date": "2020-09-16",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 10
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "83918",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15334",
+    "date": "2020-09-16",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "loser": {
+      "name": "Russell",
+      "id": "83931",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13000",
+    "date": "2020-09-16",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Williamstown",
+      "id": "83973",
+      "score": 3
+    },
+    "loser": {
+      "name": "Gallatin County",
+      "id": "83844",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11502",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Christian Academy-Louisville",
+      "id": "83816",
+      "score": 10
+    },
+    "loser": {
+      "name": "Bullitt Central",
+      "id": "83803",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7527",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Collins",
+      "id": "83818",
+      "score": 6
+    },
+    "loser": {
+      "name": "Anderson County",
+      "id": "83780",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12863",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 8
+    },
+    "loser": {
+      "name": "Model",
+      "id": "83898",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "6548",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "83830",
+      "score": 5
+    },
+    "loser": {
+      "name": "Russell",
+      "id": "83931",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13788",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Frankfort",
+      "id": "83840",
+      "score": 1
+    },
+    "loser": {
+      "name": "Franklin County",
+      "id": "83841",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14983",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "83871",
+      "score": 4
+    },
+    "loser": {
+      "name": "Belfry",
+      "id": "83790",
+      "score": 4
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2285",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 5
+    },
+    "loser": {
+      "name": "Trinity (Louisville)",
+      "id": "83957",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7790",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 3
+    },
+    "loser": {
+      "name": "Harlan County",
+      "id": "83854",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14767",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Letcher County Central",
+      "id": "83877",
+      "score": 5
+    },
+    "loser": {
+      "name": "Wolfe County",
+      "id": "83974",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14968",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 2
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "83878",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11054",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Male",
+      "id": "83887",
+      "score": 10
+    },
+    "loser": {
+      "name": "Seneca",
+      "id": "83937",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16811",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 5
+    },
+    "loser": {
+      "name": "Martin County",
+      "id": "83890",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14138",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Sayre",
+      "id": "83934",
+      "score": 2
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "83831",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14394",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott",
+      "id": "83935",
+      "score": 3
+    },
+    "loser": {
+      "name": "Boone County",
+      "id": "83795",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16111",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "83940",
+      "score": 6
+    },
+    "loser": {
+      "name": "Danville",
+      "id": "83824",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "944",
+    "date": "2020-09-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Mary",
+      "id": "83949",
+      "score": 3
+    },
+    "loser": {
+      "name": "Muhlenberg County",
+      "id": "83903",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15486",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "83789",
+      "score": 11
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17493",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Brown",
+      "id": "83801",
+      "score": 4
+    },
+    "loser": {
+      "name": "Portland Christian",
+      "id": "83925",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Whitefield Academy",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15251",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "83833",
+      "score": 9
+    },
+    "loser": {
+      "name": "John Hardin",
+      "id": "83870",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16112",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Glasgow",
+      "id": "83847",
+      "score": 1
+    },
+    "loser": {
+      "name": "Todd County Central",
+      "id": "83955",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14095",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Grant County",
+      "id": "83848",
+      "score": 3
+    },
+    "loser": {
+      "name": "Paris",
+      "id": "83919",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11703",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "83859",
+      "score": 5
+    },
+    "loser": {
+      "name": "Trinity (Louisville)",
+      "id": "83957",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13674",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "83876",
+      "score": 5
+    },
+    "loser": {
+      "name": "Martin County",
+      "id": "83890",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17428",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Model",
+      "id": "83898",
+      "score": 6
+    },
+    "loser": {
+      "name": "Ashland Blazer",
+      "id": "83782",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7097",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Morgan County",
+      "id": "83902",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fleming County",
+      "id": "83837",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17667",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Portland Christian",
+      "id": "83925",
+      "score": 1
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "83971",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17261",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 7
+    },
+    "loser": {
+      "name": "West Carter",
+      "id": "83968",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14741",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "83948",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12363",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Thomas Nelson",
+      "id": "83954",
+      "score": 7
+    },
+    "loser": {
+      "name": "Bardstown",
+      "id": "83786",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14748",
+    "date": "2020-09-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Woodford County",
+      "id": "83975",
+      "score": 4
+    },
+    "loser": {
+      "name": "Collins",
+      "id": "83818",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17465",
+    "date": "2020-09-20",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 4
+    },
+    "loser": {
+      "name": "Frankfort",
+      "id": "83840",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13777",
+    "date": "2020-09-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "83784",
+      "score": 6
+    },
+    "loser": {
+      "name": "Collins",
+      "id": "83818",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "5686",
+    "date": "2020-09-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "83805",
+      "score": 4
+    },
+    "loser": {
+      "name": "Moore",
+      "id": "83901",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7400",
+    "date": "2020-09-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Calvary Christian",
+      "id": "83809",
+      "score": 6
+    },
+    "loser": {
+      "name": "Mason County",
+      "id": "83891",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15411",
+    "date": "2020-09-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central",
+      "id": "83814",
+      "score": 7
+    },
+    "loser": {
+      "name": "Francis Parker",
+      "id": "83947",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15324",
+    "date": "2020-09-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 3
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10463",
+    "date": "2020-09-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 2
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17501",
+    "date": "2020-09-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madisonville-North Hopkins",
+      "id": "83886",
+      "score": 9
+    },
+    "loser": {
+      "name": "Webster County",
+      "id": "83967",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17963",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Atherton",
+      "id": "83783",
+      "score": 2
+    },
+    "loser": {
+      "name": "Highlands Latin",
+      "id": "83862",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17895",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "83794",
+      "score": 1
+    },
+    "loser": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Various Sites",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13364",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Calloway County",
+      "id": "83808",
+      "score": 2
+    },
+    "loser": {
+      "name": "Hopkinsville",
+      "id": "83867",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "6544",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "83830",
+      "score": 6
+    },
+    "loser": {
+      "name": "West Carter",
+      "id": "83968",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9300",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "83833",
+      "score": 3
+    },
+    "loser": {
+      "name": "Central Hardin",
+      "id": "83815",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15001",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 10
+    },
+    "loser": {
+      "name": "Brown",
+      "id": "83801",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10977",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Mason County",
+      "id": "83891",
+      "score": 7
+    },
+    "loser": {
+      "name": "Bath County",
+      "id": "83788",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1926",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ohio County",
+      "id": "83911",
+      "score": 6
+    },
+    "loser": {
+      "name": "Muhlenberg County",
+      "id": "83903",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14749",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "83942",
+      "score": 6
+    },
+    "loser": {
+      "name": "Collins",
+      "id": "83818",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11192",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Taylor County",
+      "id": "83953",
+      "score": 2
+    },
+    "loser": {
+      "name": "LaRue County",
+      "id": "83875",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13099",
+    "date": "2020-09-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "University Heights",
+      "id": "83958",
+      "score": 5
+    },
+    "loser": {
+      "name": "Hopkins County Central",
+      "id": "83866",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12364",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "83786",
+      "score": 3
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "83905",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15402",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "83789",
+      "score": 10
+    },
+    "loser": {
+      "name": "Holmes",
+      "id": "83863",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14148",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central Hardin",
+      "id": "83815",
+      "score": 2
+    },
+    "loser": {
+      "name": "John Hardin",
+      "id": "83870",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14840",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "83871",
+      "score": 3
+    },
+    "loser": {
+      "name": "Russell",
+      "id": "83931",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14380",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "83878",
+      "score": 3
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "83896",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "940",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "83893",
+      "score": 5
+    },
+    "loser": {
+      "name": "St. Mary",
+      "id": "83949",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10244",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Morgan County",
+      "id": "83902",
+      "score": 3
+    },
+    "loser": {
+      "name": "Bath County",
+      "id": "83788",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1930",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "83915",
+      "score": 3
+    },
+    "loser": {
+      "name": "Ohio County",
+      "id": "83911",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13531",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "83933",
+      "score": 2
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "83948",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9235",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Southwestern",
+      "id": "83945",
+      "score": 1
+    },
+    "loser": {
+      "name": "Somerset Christian School",
+      "id": "85549",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13623",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Taylor County",
+      "id": "83953",
+      "score": 8
+    },
+    "loser": {
+      "name": "Campbellsville",
+      "id": "83811",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7528",
+    "date": "2020-09-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Western Hills",
+      "id": "83970",
+      "score": 1
+    },
+    "loser": {
+      "name": "Anderson County",
+      "id": "83780",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15011",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bourbon County",
+      "id": "83796",
+      "score": 4
+    },
+    "loser": {
+      "name": "Holmes",
+      "id": "83863",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18314",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bryan Station",
+      "id": "83802",
+      "score": 4
+    },
+    "loser": {
+      "name": "Newport Central Catholic",
+      "id": "83906",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11503",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt Central",
+      "id": "83803",
+      "score": 8
+    },
+    "loser": {
+      "name": "Francis Parker",
+      "id": "83947",
+      "score": 5
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10609",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "83805",
+      "score": 7
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "83924",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12078",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central Hardin",
+      "id": "83815",
+      "score": 4
+    },
+    "loser": {
+      "name": "DeSales",
+      "id": "83826",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown Sportspark",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14139",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "East Jessamine",
+      "id": "83831",
+      "score": 4
+    },
+    "loser": {
+      "name": "Anderson County",
+      "id": "83780",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13310",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Great Crossing",
+      "id": "83851",
+      "score": 4
+    },
+    "loser": {
+      "name": "Scott County",
+      "id": "83936",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15325",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 10
+    },
+    "loser": {
+      "name": "St. Patrick",
+      "id": "83950",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18316",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "John Hardin",
+      "id": "83870",
+      "score": 2
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "83905",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13093",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 10
+    },
+    "loser": {
+      "name": "Hazard",
+      "id": "83857",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Frankfort",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "6072",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Southern",
+      "id": "83885",
+      "score": 6
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "83928",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18306",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madisonville-North Hopkins",
+      "id": "83886",
+      "score": 3
+    },
+    "loser": {
+      "name": "Franklin-Simpson",
+      "id": "83842",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "5460",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "83888",
+      "score": 1
+    },
+    "loser": {
+      "name": "LaRue County",
+      "id": "83875",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15332",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Montgomery County",
+      "id": "83900",
+      "score": 0
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18524",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Murray",
+      "id": "83904",
+      "score": 2
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Frankfort",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1920",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ohio County",
+      "id": "83911",
+      "score": 10
+    },
+    "loser": {
+      "name": "Webster County",
+      "id": "83967",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17385",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "83915",
+      "score": 0
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17450",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 6
+    },
+    "loser": {
+      "name": "Bethlehem",
+      "id": "83793",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Frankfort",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18508",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "83933",
+      "score": 0
+    },
+    "loser": {
+      "name": "Lafayette",
+      "id": "83874",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14769",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "83942",
+      "score": 5
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "83896",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13631",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "83943",
+      "score": 6
+    },
+    "loser": {
+      "name": "Trinity (Louisville)",
+      "id": "83957",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10175",
+    "date": "2020-09-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "83969",
+      "score": 4
+    },
+    "loser": {
+      "name": "Boyle County",
+      "id": "83799",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18634",
+    "date": "2020-09-27",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 10
+    },
+    "loser": {
+      "name": "Murray",
+      "id": "83904",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Frankfort",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18505",
+    "date": "2020-09-27",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "83893",
+      "score": 1
+    },
+    "loser": {
+      "name": "Elizabethtown",
+      "id": "83833",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown Sportspark",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13935",
+    "date": "2020-09-27",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 8
+    },
+    "loser": {
+      "name": "Jackson City",
+      "id": "83869",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18446",
+    "date": "2020-09-27",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Taylor County",
+      "id": "83953",
+      "score": 2
+    },
+    "loser": {
+      "name": "North Hardin",
+      "id": "83908",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown Sportspark",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14389",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "83784",
+      "score": 1
+    },
+    "loser": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13784",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Belfry",
+      "id": "83790",
+      "score": 10
+    },
+    "loser": {
+      "name": "Pikeville",
+      "id": "83923",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10554",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "83805",
+      "score": 1
+    },
+    "loser": {
+      "name": "Fern Creek",
+      "id": "83836",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10560",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Christian County",
+      "id": "83817",
+      "score": 2
+    },
+    "loser": {
+      "name": "Logan County",
+      "id": "83881",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13094",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Martin County",
+      "id": "83890",
+      "score": 10
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "83918",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9722",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Murray",
+      "id": "83904",
+      "score": 2
+    },
+    "loser": {
+      "name": "Graves County",
+      "id": "83849",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11702",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Mary",
+      "id": "83949",
+      "score": 2
+    },
+    "loser": {
+      "name": "Hopkins County Central",
+      "id": "83866",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18572",
+    "date": "2020-09-28",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "83957",
+      "score": 8
+    },
+    "loser": {
+      "name": "Waggener",
+      "id": "83961",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12366",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "83786",
+      "score": 5
+    },
+    "loser": {
+      "name": "Boyle County",
+      "id": "83799",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1915",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "83797",
+      "score": 5
+    },
+    "loser": {
+      "name": "Todd County Central",
+      "id": "83955",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11618",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Cooper",
+      "id": "83820",
+      "score": 3
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "83935",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18734",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "83822",
+      "score": 3
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14141",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Muhlenberg County",
+      "id": "83903",
+      "score": 2
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "83932",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12865",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "loser": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16031",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "83924",
+      "score": 5
+    },
+    "loser": {
+      "name": "Waggener",
+      "id": "83961",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1226",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "83940",
+      "score": 10
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10828",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Laurel",
+      "id": "83941",
+      "score": 0
+    },
+    "loser": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13111",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Thomas Nelson",
+      "id": "83954",
+      "score": 5
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "83905",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11036",
+    "date": "2020-09-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "83969",
+      "score": 6
+    },
+    "loser": {
+      "name": "Lincoln County",
+      "id": "83880",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14701",
+    "date": "2020-09-30",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "83829",
+      "score": 2
+    },
+    "loser": {
+      "name": "Male",
+      "id": "83887",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15326",
+    "date": "2020-09-30",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 8
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16903",
+    "date": "2020-09-30",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "83876",
+      "score": 5
+    },
+    "loser": {
+      "name": "Johnson Central",
+      "id": "83871",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15127",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Belfry",
+      "id": "83790",
+      "score": 1
+    },
+    "loser": {
+      "name": "Martin County",
+      "id": "83890",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11504",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt Central",
+      "id": "83803",
+      "score": 0
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "83905",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12338",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Campbellsville",
+      "id": "83811",
+      "score": 4
+    },
+    "loser": {
+      "name": "Casey County",
+      "id": "83813",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15277",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "John Hardin",
+      "id": "83870",
+      "score": 5
+    },
+    "loser": {
+      "name": "Portland Christian",
+      "id": "83925",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13043",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 3
+    },
+    "loser": {
+      "name": "Barbourville",
+      "id": "83785",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "17384",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "loser": {
+      "name": "Daviess County",
+      "id": "83825",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16217",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ohio County",
+      "id": "83911",
+      "score": 4
+    },
+    "loser": {
+      "name": "Taylor County",
+      "id": "83953",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Glasgow",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18948",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Paintsville",
+      "id": "83918",
+      "score": 1
+    },
+    "loser": {
+      "name": "Jackson City",
+      "id": "83869",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2964",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Simon Kenton",
+      "id": "83939",
+      "score": 6
+    },
+    "loser": {
+      "name": "Walton-Verona",
+      "id": "83963",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19539",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "83940",
+      "score": 10
+    },
+    "loser": {
+      "name": "Berea",
+      "id": "83791",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11646",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Mary",
+      "id": "83949",
+      "score": 4
+    },
+    "loser": {
+      "name": "Lyon County",
+      "id": "83883",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19369",
+    "date": "2020-10-01",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Whitley County",
+      "id": "83972",
+      "score": 0
+    },
+    "loser": {
+      "name": "Harlan County",
+      "id": "83854",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14731",
+    "date": "2020-10-02",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "83878",
+      "score": 2
+    },
+    "loser": {
+      "name": "Frederick Douglass",
+      "id": "83843",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19500",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Allen County-Scottsville",
+      "id": "85551",
+      "score": 0
+    },
+    "loser": {
+      "name": "Hopkinsville",
+      "id": "83867",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Russellville",
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19686",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "83782",
+      "score": 7
+    },
+    "loser": {
+      "name": "Russell",
+      "id": "83931",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11393",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt East",
+      "id": "83804",
+      "score": 3
+    },
+    "loser": {
+      "name": "LaRue County",
+      "id": "83875",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13832",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Estill County",
+      "id": "83834",
+      "score": 0
+    },
+    "loser": {
+      "name": "Letcher County Central",
+      "id": "83877",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10890",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Graves County",
+      "id": "83849",
+      "score": 0
+    },
+    "loser": {
+      "name": "Webster County",
+      "id": "83967",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "1715",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "83861",
+      "score": 3
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19081",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Male",
+      "id": "83887",
+      "score": 4
+    },
+    "loser": {
+      "name": "Bowling Green",
+      "id": "83797",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "698",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "McCracken County",
+      "id": "83893",
+      "score": 8
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "83808",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "2106",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Russellville",
+      "id": "83932",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lyon County",
+      "id": "83883",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19703",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset Christian School",
+      "id": "85549",
+      "score": 3
+    },
+    "loser": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13632",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "83957",
+      "score": 2
+    },
+    "loser": {
+      "name": "Covington Catholic",
+      "id": "83822",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10606",
+    "date": "2020-10-03",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "83969",
+      "score": 2
+    },
+    "loser": {
+      "name": "George Rogers Clark",
+      "id": "83846",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11677",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Allen County-Scottsville",
+      "id": "85551",
+      "score": 0
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18631",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Calvary Christian",
+      "id": "83809",
+      "score": 4
+    },
+    "loser": {
+      "name": "Villa Madonna",
+      "id": "83960",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14730",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "83843",
+      "score": 2
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13410",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Gallatin County",
+      "id": "83844",
+      "score": 1
+    },
+    "loser": {
+      "name": "Walton-Verona",
+      "id": "83963",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19589",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Hart County",
+      "id": "83856",
+      "score": 2
+    },
+    "loser": {
+      "name": "Monroe County",
+      "id": "83899",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14982",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "83871",
+      "score": 10
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "83918",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10464",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 4
+    },
+    "loser": {
+      "name": "South Oldham",
+      "id": "83942",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10575",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Moore",
+      "id": "83901",
+      "score": 5
+    },
+    "loser": {
+      "name": "Seneca",
+      "id": "83937",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13833",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Rowan County",
+      "id": "83930",
+      "score": 0
+    },
+    "loser": {
+      "name": "Mason County",
+      "id": "83891",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "7161",
+    "date": "2020-10-05",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Laurel",
+      "id": "83941",
+      "score": 1
+    },
+    "loser": {
+      "name": "North Laurel",
+      "id": "83909",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20821",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Barbourville",
+      "id": "83785",
+      "score": 2
+    },
+    "loser": {
+      "name": "Middlesboro",
+      "id": "83897",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14152",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central Hardin",
+      "id": "83815",
+      "score": 3
+    },
+    "loser": {
+      "name": "Owensboro",
+      "id": "83915",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15410",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Christian Academy-Louisville",
+      "id": "83816",
+      "score": 9
+    },
+    "loser": {
+      "name": "Francis Parker",
+      "id": "83947",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11620",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Cooper",
+      "id": "83820",
+      "score": 2
+    },
+    "loser": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10334",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "83830",
+      "score": 7
+    },
+    "loser": {
+      "name": "Russell",
+      "id": "83931",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "8055",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "83858",
+      "score": 5
+    },
+    "loser": {
+      "name": "Apollo",
+      "id": "83781",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11706",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "83859",
+      "score": 2
+    },
+    "loser": {
+      "name": "Tates Creek",
+      "id": "83952",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11435",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 3
+    },
+    "loser": {
+      "name": "DuPont Manual",
+      "id": "83829",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18674",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "83889",
+      "score": 5
+    },
+    "loser": {
+      "name": "University Heights",
+      "id": "83958",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13815",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro Catholic",
+      "id": "83916",
+      "score": 4
+    },
+    "loser": {
+      "name": "Hopkins County Central",
+      "id": "83866",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12766",
+    "date": "2020-10-06",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren Central",
+      "id": "83964",
+      "score": 1
+    },
+    "loser": {
+      "name": "Daviess County",
+      "id": "83825",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14112",
+    "date": "2020-10-07",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Carroll County",
+      "id": "83812",
+      "score": 3
+    },
+    "loser": {
+      "name": "Walton-Verona",
+      "id": "83963",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14140",
+    "date": "2020-10-07",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "East Jessamine",
+      "id": "83831",
+      "score": 3
+    },
+    "loser": {
+      "name": "Bourbon County",
+      "id": "83796",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19443",
+    "date": "2020-10-07",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 6
+    },
+    "loser": {
+      "name": "Russell",
+      "id": "83931",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14698",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Apollo",
+      "id": "83781",
+      "score": 4
+    },
+    "loser": {
+      "name": "Hopkinsville",
+      "id": "83867",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10389",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Barbourville",
+      "id": "83785",
+      "score": 0
+    },
+    "loser": {
+      "name": "Whitley County",
+      "id": "83972",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15409",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Beechwood",
+      "id": "83789",
+      "score": 4
+    },
+    "loser": {
+      "name": "Grant County",
+      "id": "83848",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12339",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Casey County",
+      "id": "83813",
+      "score": 1
+    },
+    "loser": {
+      "name": "Garrard County",
+      "id": "83845",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13697",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central",
+      "id": "83814",
+      "score": 1
+    },
+    "loser": {
+      "name": "Holy Cross (Louisville)",
+      "id": "83865",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10577",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Christian Academy-Louisville",
+      "id": "83816",
+      "score": 7
+    },
+    "loser": {
+      "name": "Seneca",
+      "id": "83937",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20213",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "83825",
+      "score": 4
+    },
+    "loser": {
+      "name": "Henderson County",
+      "id": "83858",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11436",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "83829",
+      "score": 3
+    },
+    "loser": {
+      "name": "Eastern",
+      "id": "83832",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19626",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "83842",
+      "score": 4
+    },
+    "loser": {
+      "name": "Owensboro",
+      "id": "83915",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10607",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "George Rogers Clark",
+      "id": "83846",
+      "score": 3
+    },
+    "loser": {
+      "name": "Harrison County",
+      "id": "83855",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11253",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Greenwood",
+      "id": "83853",
+      "score": 10
+    },
+    "loser": {
+      "name": "Logan County",
+      "id": "83881",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "8053",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "83858",
+      "score": 0
+    },
+    "loser": {
+      "name": "Owensboro",
+      "id": "83915",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14103",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Johnson Central",
+      "id": "83871",
+      "score": 4
+    },
+    "loser": {
+      "name": "Belfry",
+      "id": "83790",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "10452",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 4
+    },
+    "loser": {
+      "name": "Woodford County",
+      "id": "83975",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12866",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 3
+    },
+    "loser": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14802",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 9
+    },
+    "loser": {
+      "name": "South Oldham",
+      "id": "83942",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9889",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Mercer County",
+      "id": "83896",
+      "score": 3
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "83928",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "9820",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "North Hardin",
+      "id": "83908",
+      "score": 6
+    },
+    "loser": {
+      "name": "Grayson County",
+      "id": "83850",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "12992",
+    "date": "2020-10-08",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Tates Creek",
+      "id": "83952",
+      "score": 0
+    },
+    "loser": {
+      "name": "Bryan Station",
+      "id": "83802",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "19444",
+    "date": "2020-10-09",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Christian County",
+      "id": "83817",
+      "score": 0
+    },
+    "loser": {
+      "name": "Madisonville-North Hopkins",
+      "id": "83886",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15327",
+    "date": "2020-10-09",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 8
+    },
+    "loser": {
+      "name": "Holmes",
+      "id": "83863",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20698",
+    "date": "2020-10-09",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Iroquois",
+      "id": "83868",
+      "score": 1
+    },
+    "loser": {
+      "name": "Central",
+      "id": "83814",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "14381",
+    "date": "2020-10-09",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Morgan County",
+      "id": "83902",
+      "score": 0
+    },
+    "loser": {
+      "name": "Wolfe County",
+      "id": "83974",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20649",
+    "date": "2020-10-09",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "83951",
+      "score": 4
+    },
+    "loser": {
+      "name": "Lafayette",
+      "id": "83874",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "11394",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "83786",
+      "score": 2
+    },
+    "loser": {
+      "name": "LaRue County",
+      "id": "83875",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20299",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bryan Station",
+      "id": "83802",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "83878",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "16025",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "83822",
+      "score": 3
+    },
+    "loser": {
+      "name": "Newport Central Catholic",
+      "id": "83906",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "18696",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Covington)",
+      "id": "83864",
+      "score": 4
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "83948",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20551",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Southern",
+      "id": "83885",
+      "score": 4
+    },
+    "loser": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15628",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "83924",
+      "score": 5
+    },
+    "loser": {
+      "name": "Portland Christian",
+      "id": "83925",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "15406",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 3
+    },
+    "loser": {
+      "name": "Beechwood",
+      "id": "83789",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20604",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Russellville",
+      "id": "83932",
+      "score": 2
+    },
+    "loser": {
+      "name": "Christian County",
+      "id": "83817",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "13224",
+    "date": "2020-10-10",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Villa Madonna",
+      "id": "83960",
+      "score": 2
+    },
+    "loser": {
+      "name": "Carroll County",
+      "id": "83812",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "20943",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "83784",
+      "score": 7
+    },
+    "loser": {
+      "name": "Christian Academy-Louisville",
+      "id": "83816",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "28th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20826",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Barren County",
+      "id": "83787",
+      "score": 9
+    },
+    "loser": {
+      "name": "Allen County-Scottsville",
+      "id": "85551",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Barren County (Glasgow/Barren County Soccer Complex",
+    "tournament": "15th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20677",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Belfry",
+      "id": "83790",
+      "score": 9
+    },
+    "loser": {
+      "name": "Pikeville",
+      "id": "83923",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "58th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20418",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "83797",
+      "score": 4
+    },
+    "loser": {
+      "name": "Warren East",
+      "id": "83965",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "14th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20187",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "83799",
+      "score": 12
+    },
+    "loser": {
+      "name": "Garrard County",
+      "id": "83845",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Lincoln County",
+    "tournament": "45th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20842",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "83805",
+      "score": 9
+    },
+    "loser": {
+      "name": "Doss",
+      "id": "83828",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "22nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20414",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Campbellsville",
+      "id": "83811",
+      "score": 2
+    },
+    "loser": {
+      "name": "Hart County",
+      "id": "83856",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Taylor County",
+    "tournament": "18th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20814",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central",
+      "id": "83814",
+      "score": 11
+    },
+    "loser": {
+      "name": "Francis Parker",
+      "id": "83947",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "DuPont Manual",
+    "tournament": "25th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20521",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 6
+    },
+    "loser": {
+      "name": "North Laurel",
+      "id": "83909",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "South Laurel",
+    "tournament": "49th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20641",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "83825",
+      "score": 3
+    },
+    "loser": {
+      "name": "Owensboro",
+      "id": "83915",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Apollo",
+    "tournament": "9th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20537",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Dixie Heights",
+      "id": "83827",
+      "score": 3
+    },
+    "loser": {
+      "name": "Villa Madonna",
+      "id": "83960",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "34th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19516",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkins County Central",
+      "id": "83866",
+      "score": 3
+    },
+    "loser": {
+      "name": "Caldwell County",
+      "id": "83807",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20844",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Iroquois",
+      "id": "83868",
+      "score": 5
+    },
+    "loser": {
+      "name": "DeSales",
+      "id": "83826",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "22nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20945",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 3
+    },
+    "loser": {
+      "name": "Eastern",
+      "id": "83832",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Christian Academy-Louisville",
+    "tournament": "28th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20557",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "83878",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "43rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20563",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Central",
+      "id": "83884",
+      "score": 9
+    },
+    "loser": {
+      "name": "Berea",
+      "id": "83791",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "44th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20550",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Martin County",
+      "id": "83890",
+      "score": 2
+    },
+    "loser": {
+      "name": "Johnson Central",
+      "id": "83871",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "StoneCrest (Prestonsburg",
+    "tournament": "57th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19931",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Mayfield",
+      "id": "83892",
+      "score": 3
+    },
+    "loser": {
+      "name": "Graves County",
+      "id": "83849",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Murray",
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20628",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Menifee County",
+      "id": "83895",
+      "score": 5
+    },
+    "loser": {
+      "name": "Bath County",
+      "id": "83788",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "61st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20930",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Mercer County",
+      "id": "83896",
+      "score": 8
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "83831",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "46th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20548",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 13
+    },
+    "loser": {
+      "name": "Paintsville",
+      "id": "83918",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "StoneCrest (Prestonsburg",
+    "tournament": "57th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20995",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott County",
+      "id": "83936",
+      "score": 3
+    },
+    "loser": {
+      "name": "Sayre",
+      "id": "83934",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "42nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20523",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Laurel",
+      "id": "83941",
+      "score": 7
+    },
+    "loser": {
+      "name": "Whitley County",
+      "id": "83972",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "49th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20962",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "83942",
+      "score": 2
+    },
+    "loser": {
+      "name": "Oldham County",
+      "id": "83912",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "29th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20847",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "83951",
+      "score": 8
+    },
+    "loser": {
+      "name": "Brown",
+      "id": "83801",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Louisville Collegiate",
+    "tournament": "26th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19445",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Trigg County",
+      "id": "83956",
+      "score": 5
+    },
+    "loser": {
+      "name": "Lyon County",
+      "id": "83883",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Trigg County Complex",
+    "tournament": "5th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20578",
+    "date": "2020-10-12",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "83957",
+      "score": 10
+    },
+    "loser": {
+      "name": "Seneca",
+      "id": "83937",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Waggener",
+    "tournament": "27th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20643",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Apollo",
+      "id": "83781",
+      "score": 3
+    },
+    "loser": {
+      "name": "Owensboro Catholic",
+      "id": "83916",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20580",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Atherton",
+      "id": "83783",
+      "score": 10
+    },
+    "loser": {
+      "name": "Waggener",
+      "id": "83961",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "27th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20807",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Calvary Christian",
+      "id": "83809",
+      "score": 4
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "83935",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "37th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20695",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Cooper",
+      "id": "83820",
+      "score": 2
+    },
+    "loser": {
+      "name": "Boone County",
+      "id": "83795",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "33rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20590",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Fairdale",
+      "id": "83835",
+      "score": 4
+    },
+    "loser": {
+      "name": "Holy Cross (Louisville)",
+      "id": "83865",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "21st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20932",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Fern Creek",
+      "id": "83836",
+      "score": 2
+    },
+    "loser": {
+      "name": "Bullitt East",
+      "id": "83804",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Bullitt East (Mt. Washington Sports Complex",
+    "tournament": "24th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "21088",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Greenup County",
+      "id": "83852",
+      "score": 1
+    },
+    "loser": {
+      "name": "West Carter",
+      "id": "83968",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "East Carter",
+    "tournament": "62nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20935",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Harlan County",
+      "id": "83854",
+      "score": 3
+    },
+    "loser": {
+      "name": "Middlesboro",
+      "id": "83897",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "50th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "18853",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Harrison County",
+      "id": "83855",
+      "score": 10
+    },
+    "loser": {
+      "name": "St. Patrick",
+      "id": "83950",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "38th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20393",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "83858",
+      "score": 10
+    },
+    "loser": {
+      "name": "Webster County",
+      "id": "83967",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "6th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20996",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "83859",
+      "score": 3
+    },
+    "loser": {
+      "name": "Scott County",
+      "id": "83936",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "42nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21090",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Jackson City",
+      "id": "83869",
+      "score": 3
+    },
+    "loser": {
+      "name": "Wolfe County",
+      "id": "83974",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Powell County",
+    "tournament": "54th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20944",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 2
+    },
+    "loser": {
+      "name": "Ballard",
+      "id": "83784",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Christian Academy-Louisville",
+    "tournament": "28th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20933",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 7
+    },
+    "loser": {
+      "name": "Barbourville",
+      "id": "83785",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Harlan County",
+    "tournament": "50th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20555",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lafayette",
+      "id": "83874",
+      "score": 3
+    },
+    "loser": {
+      "name": "Tates Creek",
+      "id": "83952",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Lexington Catholic",
+    "tournament": "43rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20189",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lincoln County",
+      "id": "83880",
+      "score": 3
+    },
+    "loser": {
+      "name": "Danville",
+      "id": "83824",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "45th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20849",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 9
+    },
+    "loser": {
+      "name": "Male",
+      "id": "83887",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "26th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20565",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Southern",
+      "id": "83885",
+      "score": 4
+    },
+    "loser": {
+      "name": "Model",
+      "id": "83898",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Madison Central",
+    "tournament": "44th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20412",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "83888",
+      "score": 2
+    },
+    "loser": {
+      "name": "LaRue County",
+      "id": "83875",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Taylor County",
+    "tournament": "18th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19932",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "83889",
+      "score": 2
+    },
+    "loser": {
+      "name": "Mayfield",
+      "id": "83892",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Murray",
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20809",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Monroe County",
+      "id": "83899",
+      "score": 1
+    },
+    "loser": {
+      "name": "Russell County",
+      "id": "85553",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Clinton County",
+    "tournament": "16th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20327",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Montgomery County",
+      "id": "83900",
+      "score": 10
+    },
+    "loser": {
+      "name": "Bourbon County",
+      "id": "83796",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "39th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20558",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "83920",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Lexington Catholic",
+    "tournament": "43rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20588",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "83924",
+      "score": 12
+    },
+    "loser": {
+      "name": "Valley",
+      "id": "83959",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Fairdale",
+    "tournament": "21st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20797",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "83928",
+      "score": 10
+    },
+    "loser": {
+      "name": "Casey County",
+      "id": "83813",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Somerset",
+    "tournament": "47th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20626",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Rowan County",
+      "id": "83930",
+      "score": 2
+    },
+    "loser": {
+      "name": "Fleming County",
+      "id": "83837",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bath County",
+    "tournament": "61st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20048",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Russellville",
+      "id": "83932",
+      "score": 7
+    },
+    "loser": {
+      "name": "Todd County Central",
+      "id": "83955",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "13th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20693",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "83933",
+      "score": 3
+    },
+    "loser": {
+      "name": "Conner",
+      "id": "83819",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "33rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20419",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "83943",
+      "score": 5
+    },
+    "loser": {
+      "name": "Bowling Green",
+      "id": "83797",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "14th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20631",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Southwestern",
+      "id": "83945",
+      "score": 1
+    },
+    "loser": {
+      "name": "Wayne County",
+      "id": "83966",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "48th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20415",
+    "date": "2020-10-13",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Taylor County",
+      "id": "83953",
+      "score": 3
+    },
+    "loser": {
+      "name": "Campbellsville",
+      "id": "83811",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "18th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20605",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Carroll County",
+      "id": "83812",
+      "score": 3
+    },
+    "loser": {
+      "name": "Owen County",
+      "id": "83914",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "31st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20522",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 10
+    },
+    "loser": {
+      "name": "South Laurel",
+      "id": "83941",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "49th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20538",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Dixie Heights",
+      "id": "83827",
+      "score": 3
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "83948",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "34th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20813",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "83829",
+      "score": 5
+    },
+    "loser": {
+      "name": "Central",
+      "id": "83814",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "25th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "21089",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "83830",
+      "score": 7
+    },
+    "loser": {
+      "name": "Greenup County",
+      "id": "83852",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "62nd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20827",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Glasgow",
+      "id": "83847",
+      "score": 3
+    },
+    "loser": {
+      "name": "Barren County",
+      "id": "83787",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Barren County (Glasgow/Barren County Soccer Complex",
+    "tournament": "15th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20052",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Hazard",
+      "id": "83857",
+      "score": 3
+    },
+    "loser": {
+      "name": "Letcher County Central",
+      "id": "83877",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "TBD",
+    "tournament": "53rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "19517",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madisonville-North Hopkins",
+      "id": "83886",
+      "score": 5
+    },
+    "loser": {
+      "name": "Hopkins County Central",
+      "id": "83866",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "7th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20177",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Moore",
+      "id": "83901",
+      "score": 8
+    },
+    "loser": {
+      "name": "Southern",
+      "id": "83944",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bullitt Central",
+    "tournament": "23rd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "19929",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Murray",
+      "id": "83904",
+      "score": 3
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "83808",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "20963",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "North Oldham",
+      "id": "83910",
+      "score": 2
+    },
+    "loser": {
+      "name": "South Oldham",
+      "id": "83942",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Oldham County",
+    "tournament": "29th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20549",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 5
+    },
+    "loser": {
+      "name": "Martin County",
+      "id": "83890",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "StoneCrest (Prestonsburg",
+    "tournament": "57th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20627",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Rowan County",
+      "id": "83930",
+      "score": 8
+    },
+    "loser": {
+      "name": "Menifee County",
+      "id": "83895",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bath County",
+    "tournament": "61st District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20931",
+    "date": "2020-10-14",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "83969",
+      "score": 2
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "83896",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "46th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20188",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyle County",
+      "id": "83799",
+      "score": 10
+    },
+    "loser": {
+      "name": "Lincoln County",
+      "id": "83880",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "45th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20642",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "83825",
+      "score": 6
+    },
+    "loser": {
+      "name": "Apollo",
+      "id": "83781",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "9th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "19508",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "83833",
+      "score": 3
+    },
+    "loser": {
+      "name": "Central Hardin",
+      "id": "83815",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "North Hardin",
+    "tournament": "17th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20589",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Fairdale",
+      "id": "83835",
+      "score": 3
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "83924",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "21st District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20047",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin-Simpson",
+      "id": "83842",
+      "score": 8
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "83932",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Todd County Central",
+    "tournament": "13th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20606",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Gallatin County",
+      "id": "83844",
+      "score": 1
+    },
+    "loser": {
+      "name": "Carroll County",
+      "id": "83812",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Owen County",
+    "tournament": "31st District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20392",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Grayson County",
+      "id": "83850",
+      "score": 2
+    },
+    "loser": {
+      "name": "Meade County",
+      "id": "83894",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20994",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "83859",
+      "score": 1
+    },
+    "loser": {
+      "name": "Frederick Douglass",
+      "id": "83843",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "42nd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20934",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Knox Central",
+      "id": "83873",
+      "score": 2
+    },
+    "loser": {
+      "name": "Harlan County",
+      "id": "83854",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "50th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20678",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "83876",
+      "score": 3
+    },
+    "loser": {
+      "name": "Belfry",
+      "id": "83790",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Pikeville",
+    "tournament": "58th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20848",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 3
+    },
+    "loser": {
+      "name": "St. Xavier",
+      "id": "83951",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "26th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20564",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Southern",
+      "id": "83885",
+      "score": 1
+    },
+    "loser": {
+      "name": "Madison Central",
+      "id": "83884",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "44th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "19930",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "83889",
+      "score": 3
+    },
+    "loser": {
+      "name": "Murray",
+      "id": "83904",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "2nd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20326",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Montgomery County",
+      "id": "83900",
+      "score": 4
+    },
+    "loser": {
+      "name": "George Rogers Clark",
+      "id": "83846",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "39th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20556",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "83920",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lafayette",
+      "id": "83874",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Lexington Catholic",
+    "tournament": "43rd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "21091",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Powell County",
+      "id": "83926",
+      "score": 12
+    },
+    "loser": {
+      "name": "Jackson City",
+      "id": "83869",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "54th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20694",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "83933",
+      "score": 3
+    },
+    "loser": {
+      "name": "Cooper",
+      "id": "83820",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "33rd District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20798",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "83940",
+      "score": 6
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "83928",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "47th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "20579",
+    "date": "2020-10-15",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "83957",
+      "score": 4
+    },
+    "loser": {
+      "name": "Atherton",
+      "id": "83783",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Waggener",
+    "tournament": "27th District",
+    "isChampionship": true
+  },
+  {
+    "matchId": "21647",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "83782",
+      "score": 6
+    },
+    "loser": {
+      "name": "Greenup County",
+      "id": "83852",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21649",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyd County",
+      "id": "83798",
+      "score": 1
+    },
+    "loser": {
+      "name": "Menifee County",
+      "id": "83895",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22051",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Calvary Christian",
+      "id": "83809",
+      "score": 2
+    },
+    "loser": {
+      "name": "George Rogers Clark",
+      "id": "83846",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bishop Brossart",
+    "tournament": "10th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21948",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Cooper",
+      "id": "83820",
+      "score": 3
+    },
+    "loser": {
+      "name": "Dixie Heights",
+      "id": "83827",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21950",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "83822",
+      "score": 6
+    },
+    "loser": {
+      "name": "Newport Central Catholic",
+      "id": "83906",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21971",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Fairdale",
+      "id": "83835",
+      "score": 4
+    },
+    "loser": {
+      "name": "Iroquois",
+      "id": "83868",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21965",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Fern Creek",
+      "id": "83836",
+      "score": 5
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "83924",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Mercy",
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22098",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 9
+    },
+    "loser": {
+      "name": "Atherton",
+      "id": "83783",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21954",
+    "date": "2020-10-17",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "83933",
+      "score": 4
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "83948",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22116",
+    "date": "2020-10-18",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central Hardin",
+      "id": "83815",
+      "score": 9
+    },
+    "loser": {
+      "name": "Bardstown",
+      "id": "83786",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Nelson County",
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22178",
+    "date": "2020-10-18",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 10
+    },
+    "loser": {
+      "name": "Harlan County",
+      "id": "83854",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "13th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22074",
+    "date": "2020-10-18",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Frederick Douglass",
+      "id": "83843",
+      "score": 2
+    },
+    "loser": {
+      "name": "Madison Southern",
+      "id": "83885",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22076",
+    "date": "2020-10-18",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "83920",
+      "score": 2
+    },
+    "loser": {
+      "name": "Frankfort",
+      "id": "83840",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22052",
+    "date": "2020-10-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Calvary Christian",
+      "id": "83809",
+      "score": 3
+    },
+    "loser": {
+      "name": "Mason County",
+      "id": "83891",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bishop Brossart",
+    "tournament": "10th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21949",
+    "date": "2020-10-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "83822",
+      "score": 2
+    },
+    "loser": {
+      "name": "Cooper",
+      "id": "83820",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Ryle",
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22053",
+    "date": "2020-10-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Hazard",
+      "id": "83857",
+      "score": 1
+    },
+    "loser": {
+      "name": "Jackson City",
+      "id": "83869",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Perry Co. Central",
+    "tournament": "14th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22097",
+    "date": "2020-10-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 2
+    },
+    "loser": {
+      "name": "Louisville Collegiate",
+      "id": "83882",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Trinity (Marshall Stadium",
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22061",
+    "date": "2020-10-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lawrence County",
+      "id": "83876",
+      "score": 4
+    },
+    "loser": {
+      "name": "Martin County",
+      "id": "83890",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Belfry",
+    "tournament": "15th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22055",
+    "date": "2020-10-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 3
+    },
+    "loser": {
+      "name": "Powell County",
+      "id": "83926",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Perry Co. Central",
+    "tournament": "14th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22059",
+    "date": "2020-10-19",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 10
+    },
+    "loser": {
+      "name": "Belfry",
+      "id": "83790",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "15th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21646",
+    "date": "2020-10-20",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "83782",
+      "score": 2
+    },
+    "loser": {
+      "name": "Rowan County",
+      "id": "83930",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22117",
+    "date": "2020-10-20",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Central Hardin",
+      "id": "83815",
+      "score": 2
+    },
+    "loser": {
+      "name": "Marion County",
+      "id": "83888",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Nelson County",
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22075",
+    "date": "2020-10-20",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "83920",
+      "score": 1
+    },
+    "loser": {
+      "name": "Frederick Douglass",
+      "id": "83843",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22089",
+    "date": "2020-10-20",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "83943",
+      "score": 10
+    },
+    "loser": {
+      "name": "Barren County",
+      "id": "83787",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Greenwood",
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22073",
+    "date": "2020-10-20",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "83969",
+      "score": 6
+    },
+    "loser": {
+      "name": "Wayne County",
+      "id": "83966",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Boyle County",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22050",
+    "date": "2020-10-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Montgomery County",
+      "id": "83900",
+      "score": 2
+    },
+    "loser": {
+      "name": "Calvary Christian",
+      "id": "83809",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Bishop Brossart",
+    "tournament": "10th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22054",
+    "date": "2020-10-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 2
+    },
+    "loser": {
+      "name": "Hazard",
+      "id": "83857",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Perry Co. Central",
+    "tournament": "14th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22060",
+    "date": "2020-10-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lawrence County",
+      "id": "83876",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Belfry",
+    "tournament": "15th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22072",
+    "date": "2020-10-21",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "West Jessamine",
+      "id": "83969",
+      "score": 2
+    },
+    "loser": {
+      "name": "Somerset",
+      "id": "83940",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Boyle County",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "21648",
+    "date": "2020-10-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "83782",
+      "score": 2
+    },
+    "loser": {
+      "name": "East Carter",
+      "id": "83830",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "16th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22901",
+    "date": "2020-10-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Christian",
+      "id": "83879",
+      "score": 5
+    },
+    "loser": {
+      "name": "Estill County",
+      "id": "83834",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": null,
+    "isChampionship": false
+  },
+  {
+    "matchId": "22099",
+    "date": "2020-10-22",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "83951",
+      "score": 2
+    },
+    "loser": {
+      "name": "Kentucky Country Day",
+      "id": "83872",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Trinity (Marshall Stadium",
+    "tournament": "7th Region",
+    "isChampionship": true
+  },
+  {
+    "matchId": "22254",
+    "date": "2020-10-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "83782",
+      "score": 4
+    },
+    "loser": {
+      "name": "Perry County Central",
+      "id": "83922",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22256",
+    "date": "2020-10-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 5
+    },
+    "loser": {
+      "name": "Prestonsburg",
+      "id": "83927",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22264",
+    "date": "2020-10-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Daviess County",
+      "id": "83825",
+      "score": 1
+    },
+    "loser": {
+      "name": "McCracken County",
+      "id": "83893",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22260",
+    "date": "2020-10-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "83933",
+      "score": 1
+    },
+    "loser": {
+      "name": "Paul Laurence Dunbar",
+      "id": "83920",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22262",
+    "date": "2020-10-24",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "83943",
+      "score": 1
+    },
+    "loser": {
+      "name": "Henderson County",
+      "id": "83858",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22255",
+    "date": "2020-10-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "Corbin",
+      "id": "83821",
+      "score": 3
+    },
+    "loser": {
+      "name": "Ashland Blazer",
+      "id": "83782",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22263",
+    "date": "2020-10-26",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "83943",
+      "score": 3
+    },
+    "loser": {
+      "name": "Daviess County",
+      "id": "83825",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Warren Central",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "22261",
+    "date": "2020-10-29",
+    "year": 2020,
+    "gender": "boys",
+    "winner": {
+      "name": "South Warren",
+      "id": "83943",
+      "score": 2
+    },
+    "loser": {
+      "name": "Ryle",
+      "id": "83933",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Henry Clay",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  }
+]

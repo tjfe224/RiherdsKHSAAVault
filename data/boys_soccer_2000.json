@@ -1,0 +1,3582 @@
+[
+  {
+    "matchId": "470",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Atherton",
+      "id": "8205",
+      "score": 1
+    },
+    "loser": {
+      "name": "Waggener",
+      "id": "8208",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Trinity (Louisville",
+    "tournament": "11th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "443",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bethlehem",
+      "id": "8229",
+      "score": 7
+    },
+    "loser": {
+      "name": "Bullitt Central",
+      "id": "8230",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Bullitt East",
+    "tournament": "16th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "355",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bishop Brossart",
+      "id": "8280",
+      "score": 2
+    },
+    "loser": {
+      "name": "Pendleton County",
+      "id": "8284",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Highlands",
+    "tournament": "27th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "488",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Boyd County",
+      "id": "8259",
+      "score": 2
+    },
+    "loser": {
+      "name": "Rose Hill Christian",
+      "id": "8263",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "23rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "441",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bullitt East",
+      "id": "8231",
+      "score": 2
+    },
+    "loser": {
+      "name": "North Bullitt",
+      "id": "8233",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "16th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "431",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Calloway County",
+      "id": "8162",
+      "score": 3
+    },
+    "loser": {
+      "name": "Graves County",
+      "id": "8163",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Murray",
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "351",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Conner",
+      "id": "8271",
+      "score": 3
+    },
+    "loser": {
+      "name": "Grant County",
+      "id": "8272",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Ryle",
+    "tournament": "25th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "373",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "8285",
+      "score": 9
+    },
+    "loser": {
+      "name": "Covington Latin",
+      "id": "8286",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Holmes",
+    "tournament": "28th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "486",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "East Carter",
+      "id": "8260",
+      "score": 4
+    },
+    "loser": {
+      "name": "Greenup County",
+      "id": "8261",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "23rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "554",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Evangel Christian",
+      "id": "8218",
+      "score": 3
+    },
+    "loser": {
+      "name": "Jeffersontown",
+      "id": "8220",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Seneca",
+    "tournament": "14th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "506",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Fort Campbell",
+      "id": "8168",
+      "score": 4
+    },
+    "loser": {
+      "name": "Christian County",
+      "id": "8167",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Ft. Campbell",
+    "tournament": "3rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "296",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "8176",
+      "score": 4
+    },
+    "loser": {
+      "name": "Madisonville-North Hopkins",
+      "id": "8178",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "5th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "371",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Holy Cross (Covington)",
+      "id": "8288",
+      "score": 7
+    },
+    "loser": {
+      "name": "Holmes",
+      "id": "8287",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "28th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "504",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkinsville",
+      "id": "8169",
+      "score": 4
+    },
+    "loser": {
+      "name": "University Heights",
+      "id": "8170",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Ft. Campbell",
+    "tournament": "3rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "358",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Lincoln County",
+      "id": "8305",
+      "score": 5
+    },
+    "loser": {
+      "name": "Taylor County",
+      "id": "8310",
+      "score": 3
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "32nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "365",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Lyon County",
+      "id": "8175",
+      "score": 5
+    },
+    "loser": {
+      "name": "Trigg County",
+      "id": "8173",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "4th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "531",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Central",
+      "id": "8290",
+      "score": 2
+    },
+    "loser": {
+      "name": "Model",
+      "id": "8292",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Berea Community Field",
+    "tournament": "29th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "533",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Southern",
+      "id": "8291",
+      "score": 2
+    },
+    "loser": {
+      "name": "Berea",
+      "id": "8289",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Berea Community Field",
+    "tournament": "29th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "466",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "8296",
+      "score": 4
+    },
+    "loser": {
+      "name": "Boyle County",
+      "id": "8293",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Garrard County",
+    "tournament": "30th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "560",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Mason County",
+      "id": "8266",
+      "score": 2
+    },
+    "loser": {
+      "name": "Bath County",
+      "id": "8246",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "24th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "435",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Meade County",
+      "id": "8226",
+      "score": 1
+    },
+    "loser": {
+      "name": "Fort Knox",
+      "id": "8225",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown",
+    "tournament": "15th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "473",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Muhlenberg North",
+      "id": "8187",
+      "score": 3
+    },
+    "loser": {
+      "name": "Muhlenberg South",
+      "id": "8188",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Russellville",
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "480",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Reidland",
+      "id": "8160",
+      "score": 2
+    },
+    "loser": {
+      "name": "St. Mary",
+      "id": "8161",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "1st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "477",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Russellville",
+      "id": "8189",
+      "score": 5
+    },
+    "loser": {
+      "name": "Butler County",
+      "id": "8185",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "552",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "8222",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fern Creek",
+      "id": "8219",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "14th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "360",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Southwestern",
+      "id": "8307",
+      "score": 3
+    },
+    "loser": {
+      "name": "Russell County",
+      "id": "8308",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Taylor County",
+    "tournament": "32nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "525",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Villa Madonna",
+      "id": "8279",
+      "score": 5
+    },
+    "loser": {
+      "name": "Calvary Christian",
+      "id": "8275",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": "Dixie Heights",
+    "tournament": "26th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "475",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Warren Central",
+      "id": "8190",
+      "score": 4
+    },
+    "loser": {
+      "name": "Franklin-Simpson",
+      "id": "8186",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Russellville",
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "347",
+    "date": "2000-10-16",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Western Hills",
+      "id": "8242",
+      "score": 3
+    },
+    "loser": {
+      "name": "Frankfort",
+      "id": "8239",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Franklin County",
+    "tournament": "18th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "502",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Adair County",
+      "id": "8191",
+      "score": 1
+    },
+    "loser": {
+      "name": "Warren East",
+      "id": "8195",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "8th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "575",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "All Saints",
+      "id": "8298",
+      "score": 3
+    },
+    "loser": {
+      "name": "Corbin",
+      "id": "8299",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "South Laurel",
+    "tournament": "31st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "485",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Ashland Blazer",
+      "id": "8262",
+      "score": 5
+    },
+    "loser": {
+      "name": "East Carter",
+      "id": "8260",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "23rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "494",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "8210",
+      "score": 7
+    },
+    "loser": {
+      "name": "Christian Academy-Louisville",
+      "id": "8211",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Eastern",
+    "tournament": "12th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "444",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "8228",
+      "score": 5
+    },
+    "loser": {
+      "name": "Bethlehem",
+      "id": "8229",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Bullitt East",
+    "tournament": "16th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "472",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "8184",
+      "score": 8
+    },
+    "loser": {
+      "name": "Muhlenberg North",
+      "id": "8187",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Russellville",
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "344",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "8214",
+      "score": 1
+    },
+    "loser": {
+      "name": "Doss",
+      "id": "8215",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "13th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "523",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Calvary Christian",
+      "id": "8275",
+      "score": 3
+    },
+    "loser": {
+      "name": "Simon Kenton",
+      "id": "8278",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Dixie Heights",
+    "tournament": "26th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "464",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Danville",
+      "id": "8294",
+      "score": 5
+    },
+    "loser": {
+      "name": "Garrard County",
+      "id": "8295",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "30th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "448",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "DeSales",
+      "id": "8201",
+      "score": 10
+    },
+    "loser": {
+      "name": "Iroquois",
+      "id": "8203",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Highview Baptist",
+    "tournament": "10th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "445",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "8198",
+      "score": 10
+    },
+    "loser": {
+      "name": "Central",
+      "id": "8196",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "290",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "East Jessamine",
+      "id": "8251",
+      "score": 2
+    },
+    "loser": {
+      "name": "West Jessamine",
+      "id": "8254",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "21st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "496",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Eastern",
+      "id": "8212",
+      "score": 4
+    },
+    "loser": {
+      "name": "Kentucky Country Day",
+      "id": "8213",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "12th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "345",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin County",
+      "id": "8240",
+      "score": 2
+    },
+    "loser": {
+      "name": "Anderson County",
+      "id": "8238",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "18th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "368",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Harrison County",
+      "id": "8245",
+      "score": 3
+    },
+    "loser": {
+      "name": "Bourbon County",
+      "id": "8243",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "19th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "564",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 2
+    },
+    "loser": {
+      "name": "Lafayette",
+      "id": "8256",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Sayre",
+    "tournament": "22nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "353",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "8282",
+      "score": 5
+    },
+    "loser": {
+      "name": "Campbell County",
+      "id": "8281",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "27th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "292",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "8252",
+      "score": 3
+    },
+    "loser": {
+      "name": "Lexington Christian",
+      "id": "8253",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "21st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "468",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Louisville Collegiate",
+      "id": "8206",
+      "score": 4
+    },
+    "loser": {
+      "name": "Walden",
+      "id": "8209",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Trinity (Louisville",
+    "tournament": "11th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "467",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "8296",
+      "score": 5
+    },
+    "loser": {
+      "name": "Mercer County",
+      "id": "8297",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Garrard County",
+    "tournament": "30th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "432",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "8164",
+      "score": 4
+    },
+    "loser": {
+      "name": "Calloway County",
+      "id": "8162",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Murray",
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "561",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Mason County",
+      "id": "8266",
+      "score": 2
+    },
+    "loser": {
+      "name": "Rowan County",
+      "id": "8268",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bath County",
+    "tournament": "24th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "558",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Montgomery County",
+      "id": "8267",
+      "score": 5
+    },
+    "loser": {
+      "name": "St. Patrick",
+      "id": "8269",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Bath County",
+    "tournament": "24th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "440",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Nelson County",
+      "id": "8232",
+      "score": 5
+    },
+    "loser": {
+      "name": "Bullitt East",
+      "id": "8231",
+      "score": 2
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "16th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "356",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Newport Central Catholic",
+      "id": "8283",
+      "score": 5
+    },
+    "loser": {
+      "name": "Bishop Brossart",
+      "id": "8280",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Highlands",
+    "tournament": "27th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "567",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Oldham County",
+      "id": "8234",
+      "score": 7
+    },
+    "loser": {
+      "name": "Shelby County",
+      "id": "8235",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "17th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "577",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Oneida Baptist Institute",
+      "id": "8302",
+      "score": 8
+    },
+    "loser": {
+      "name": "Middlesboro",
+      "id": "8300",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "South Laurel",
+    "tournament": "31st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "293",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "8183",
+      "score": 2
+    },
+    "loser": {
+      "name": "Daviess County",
+      "id": "8181",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "6th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "295",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro Catholic",
+      "id": "8182",
+      "score": 3
+    },
+    "loser": {
+      "name": "Apollo",
+      "id": "8180",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Daviess County",
+    "tournament": "6th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "481",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Paducah Tilghman",
+      "id": "8159",
+      "score": 1
+    },
+    "loser": {
+      "name": "Reidland",
+      "id": "8160",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "St. Mary",
+    "tournament": "1st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "342",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Pleasure Ridge Park",
+      "id": "8217",
+      "score": 8
+    },
+    "loser": {
+      "name": "Holy Cross (Louisville)",
+      "id": "8216",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Butler",
+    "tournament": "13th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "489",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Russell",
+      "id": "8264",
+      "score": 6
+    },
+    "loser": {
+      "name": "Boyd County",
+      "id": "8259",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "23rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "476",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Russellville",
+      "id": "8189",
+      "score": 4
+    },
+    "loser": {
+      "name": "Warren Central",
+      "id": "8190",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "349",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "8273",
+      "score": 2
+    },
+    "loser": {
+      "name": "St. Henry",
+      "id": "8274",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "25th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "562",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Sayre",
+      "id": "8257",
+      "score": 3
+    },
+    "loser": {
+      "name": "Tates Creek",
+      "id": "8258",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "22nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "565",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "8236",
+      "score": 13
+    },
+    "loser": {
+      "name": "Spencer County",
+      "id": "8237",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Oldham County",
+    "tournament": "17th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "447",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 7
+    },
+    "loser": {
+      "name": "Male",
+      "id": "8197",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "DuPont Manual",
+    "tournament": "9th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "367",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Trigg County",
+      "id": "8173",
+      "score": 6
+    },
+    "loser": {
+      "name": "Caldwell County",
+      "id": "8171",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": "Lyon County",
+    "tournament": "4th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "471",
+    "date": "2000-10-17",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "8207",
+      "score": 5
+    },
+    "loser": {
+      "name": "Atherton",
+      "id": "8205",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "352",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Boone County",
+      "id": "8270",
+      "score": 1
+    },
+    "loser": {
+      "name": "Conner",
+      "id": "8271",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Ryle",
+    "tournament": "25th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "343",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "8214",
+      "score": 4
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "8217",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "13th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "372",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "8285",
+      "score": 3
+    },
+    "loser": {
+      "name": "Holy Cross (Covington)",
+      "id": "8288",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Holmes",
+    "tournament": "28th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "446",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "8198",
+      "score": 1
+    },
+    "loser": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "9th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "436",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Elizabethtown",
+      "id": "8224",
+      "score": 2
+    },
+    "loser": {
+      "name": "Meade County",
+      "id": "8226",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "15th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "478",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Heath",
+      "id": "8157",
+      "score": 5
+    },
+    "loser": {
+      "name": "Lone Oak",
+      "id": "8158",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "St. Mary",
+    "tournament": "1st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "429",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Murray",
+      "id": "8166",
+      "score": 2
+    },
+    "loser": {
+      "name": "Mayfield",
+      "id": "8165",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "433",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "North Hardin",
+      "id": "8227",
+      "score": 2
+    },
+    "loser": {
+      "name": "Central Hardin",
+      "id": "8223",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Elizabethtown",
+    "tournament": "15th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "516",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "8248",
+      "score": 6
+    },
+    "loser": {
+      "name": "Bryan Station",
+      "id": "8247",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Scott County",
+    "tournament": "20th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "361",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "8306",
+      "score": 4
+    },
+    "loser": {
+      "name": "Southwestern",
+      "id": "8307",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Taylor County",
+    "tournament": "32nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "487",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Russell",
+      "id": "8264",
+      "score": 2
+    },
+    "loser": {
+      "name": "Ashland Blazer",
+      "id": "8262",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Boyd County",
+    "tournament": "23rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "526",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott",
+      "id": "8277",
+      "score": 3
+    },
+    "loser": {
+      "name": "Villa Madonna",
+      "id": "8279",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Dixie Heights",
+    "tournament": "26th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "518",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott County",
+      "id": "8249",
+      "score": 4
+    },
+    "loser": {
+      "name": "Woodford County",
+      "id": "8250",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "20th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "553",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "8222",
+      "score": 2
+    },
+    "loser": {
+      "name": "Evangel Christian",
+      "id": "8218",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "14th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "357",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Somerset",
+      "id": "8309",
+      "score": 6
+    },
+    "loser": {
+      "name": "Lincoln County",
+      "id": "8305",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Taylor County",
+    "tournament": "32nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "298",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "",
+      "id": null,
+      "score": 9
+    },
+    "loser": {
+      "name": "Union County",
+      "id": "8179",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Madisonville-North Hopkins",
+    "tournament": "5th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "469",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "8207",
+      "score": 6
+    },
+    "loser": {
+      "name": "Louisville Collegiate",
+      "id": "8206",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "348",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Western Hills",
+      "id": "8242",
+      "score": 7
+    },
+    "loser": {
+      "name": "Owen County",
+      "id": "8241",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Franklin County",
+    "tournament": "18th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "450",
+    "date": "2000-10-18",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Whitefield Academy",
+      "id": "8202",
+      "score": 1
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Highview Baptist",
+    "tournament": "10th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "495",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "8210",
+      "score": 2
+    },
+    "loser": {
+      "name": "Eastern",
+      "id": "8212",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "12th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "442",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "8228",
+      "score": 3
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "8232",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Bullitt East",
+    "tournament": "16th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "474",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "8184",
+      "score": 8
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "8189",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "7th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "449",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "DeSales",
+      "id": "8201",
+      "score": 2
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "8202",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Highview Baptist",
+    "tournament": "10th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "369",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "George Rogers Clark",
+      "id": "8244",
+      "score": 5
+    },
+    "loser": {
+      "name": "Harrison County",
+      "id": "8245",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "19th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "503",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Glasgow",
+      "id": "8193",
+      "score": 5
+    },
+    "loser": {
+      "name": "Adair County",
+      "id": "8191",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "8th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "500",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Greenwood",
+      "id": "8194",
+      "score": 3
+    },
+    "loser": {
+      "name": "Barren County",
+      "id": "8192",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Adair County",
+    "tournament": "8th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "479",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Heath",
+      "id": "8157",
+      "score": 3
+    },
+    "loser": {
+      "name": "Paducah Tilghman",
+      "id": "8159",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "St. Mary",
+    "tournament": "1st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "297",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henderson County",
+      "id": "8176",
+      "score": 6
+    },
+    "loser": {
+      "name": "",
+      "id": null,
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Madisonville-North Hopkins",
+    "tournament": "5th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "563",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 3
+    },
+    "loser": {
+      "name": "Sayre",
+      "id": "8257",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "22nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "354",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "8282",
+      "score": 2
+    },
+    "loser": {
+      "name": "Newport Central Catholic",
+      "id": "8283",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "27th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "505",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkinsville",
+      "id": "8169",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fort Campbell",
+      "id": "8168",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Ft. Campbell",
+    "tournament": "3rd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "291",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "8252",
+      "score": 3
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "8251",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "West Jessamine",
+    "tournament": "21st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "465",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "8296",
+      "score": 1
+    },
+    "loser": {
+      "name": "Danville",
+      "id": "8294",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Garrard County",
+    "tournament": "30th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "430",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "8164",
+      "score": 10
+    },
+    "loser": {
+      "name": "Murray",
+      "id": "8166",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "2nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "559",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Montgomery County",
+      "id": "8267",
+      "score": 5
+    },
+    "loser": {
+      "name": "Mason County",
+      "id": "8266",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Bath County",
+    "tournament": "24th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "434",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "North Hardin",
+      "id": "8227",
+      "score": 1
+    },
+    "loser": {
+      "name": "Elizabethtown",
+      "id": "8224",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "15th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "574",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "North Laurel",
+      "id": "8301",
+      "score": 3
+    },
+    "loser": {
+      "name": "All Saints",
+      "id": "8298",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "South Laurel",
+    "tournament": "31st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "578",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Oneida Baptist Institute",
+      "id": "8302",
+      "score": 2
+    },
+    "loser": {
+      "name": "South Laurel",
+      "id": "8304",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "31st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "294",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "8183",
+      "score": 5
+    },
+    "loser": {
+      "name": "Owensboro Catholic",
+      "id": "8182",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Daviess County",
+    "tournament": "6th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "517",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "8248",
+      "score": 2
+    },
+    "loser": {
+      "name": "Scott County",
+      "id": "8249",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "20th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "359",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "8306",
+      "score": 2
+    },
+    "loser": {
+      "name": "Somerset",
+      "id": "8309",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Taylor County",
+    "tournament": "32nd District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "566",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "South Oldham",
+      "id": "8236",
+      "score": 1
+    },
+    "loser": {
+      "name": "Oldham County",
+      "id": "8234",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "17th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "346",
+    "date": "2000-10-19",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Western Hills",
+      "id": "8242",
+      "score": 2
+    },
+    "loser": {
+      "name": "Franklin County",
+      "id": "8240",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "18th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "501",
+    "date": "2000-10-21",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Greenwood",
+      "id": "8194",
+      "score": 1
+    },
+    "loser": {
+      "name": "Glasgow",
+      "id": "8193",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Adair County",
+    "tournament": "8th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "576",
+    "date": "2000-10-21",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Oneida Baptist Institute",
+      "id": "8302",
+      "score": 2
+    },
+    "loser": {
+      "name": "North Laurel",
+      "id": "8301",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "South Laurel",
+    "tournament": "31st District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "350",
+    "date": "2000-10-21",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Boone County",
+      "id": "8270",
+      "score": null
+    },
+    "loser": {
+      "name": "Ryle",
+      "id": "8273",
+      "score": null
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "25th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "524",
+    "date": "2000-10-21",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Calvary Christian",
+      "id": "8275",
+      "score": null
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "8277",
+      "score": null
+    },
+    "location": "neutral",
+    "neutralSite": "Dixie Heights",
+    "tournament": "26th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "532",
+    "date": "2000-10-21",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Madison Central",
+      "id": "8290",
+      "score": null
+    },
+    "loser": {
+      "name": "Madison Southern",
+      "id": "8291",
+      "score": null
+    },
+    "location": "neutral",
+    "neutralSite": "Berea Community Field",
+    "tournament": "29th District",
+    "isChampionship": false
+  },
+  {
+    "matchId": "657",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Boone County",
+      "id": "8270",
+      "score": 2
+    },
+    "loser": {
+      "name": "Simon Kenton",
+      "id": "8278",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Scott",
+    "tournament": "13th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "645",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "8285",
+      "score": 2
+    },
+    "loser": {
+      "name": "Newport Central Catholic",
+      "id": "8283",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "14th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "632",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Danville",
+      "id": "8294",
+      "score": 2
+    },
+    "loser": {
+      "name": "Madison Central",
+      "id": "8290",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Marion Co.",
+    "tournament": "15th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "612",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "DuPont Manual",
+      "id": "8198",
+      "score": 7
+    },
+    "loser": {
+      "name": "Whitefield Academy",
+      "id": "8202",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "579",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Heath",
+      "id": "8157",
+      "score": 2
+    },
+    "loser": {
+      "name": "Murray",
+      "id": "8166",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Marshall Co.",
+    "tournament": "1st Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "647",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Highlands",
+      "id": "8282",
+      "score": 5
+    },
+    "loser": {
+      "name": "Holy Cross (Covington)",
+      "id": "8288",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Tower Park",
+    "tournament": "14th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "608",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkinsville",
+      "id": "8169",
+      "score": 3
+    },
+    "loser": {
+      "name": "Trigg County",
+      "id": "8173",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Lyon Co. Jones Park",
+    "tournament": "2nd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "606",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Lyon County",
+      "id": "8175",
+      "score": 3
+    },
+    "loser": {
+      "name": "Fort Campbell",
+      "id": "8168",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Lyon Co. Jones Park",
+    "tournament": "2nd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "630",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marion County",
+      "id": "8296",
+      "score": 3
+    },
+    "loser": {
+      "name": "Madison Southern",
+      "id": "8291",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Marion Co.",
+    "tournament": "15th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "581",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "8164",
+      "score": 2
+    },
+    "loser": {
+      "name": "Paducah Tilghman",
+      "id": "8159",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Marshall Co.",
+    "tournament": "1st Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "620",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "8248",
+      "score": 7
+    },
+    "loser": {
+      "name": "Harrison County",
+      "id": "8245",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Paul Dunbar",
+    "tournament": "10th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "659",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Ryle",
+      "id": "8273",
+      "score": 1
+    },
+    "loser": {
+      "name": "Scott",
+      "id": "8277",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "13th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "618",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Scott County",
+      "id": "8249",
+      "score": 3
+    },
+    "loser": {
+      "name": "George Rogers Clark",
+      "id": "8244",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Paul Dunbar",
+    "tournament": "10th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "614",
+    "date": "2000-10-23",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 2
+    },
+    "loser": {
+      "name": "DeSales",
+      "id": "8201",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "615",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Ballard",
+      "id": "8210",
+      "score": 2
+    },
+    "loser": {
+      "name": "Louisville Collegiate",
+      "id": "8206",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "627",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "8228",
+      "score": 3
+    },
+    "loser": {
+      "name": "Elizabethtown",
+      "id": "8224",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "665",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "8184",
+      "score": 6
+    },
+    "loser": {
+      "name": "Glasgow",
+      "id": "8193",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Greenwood",
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "671",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "8214",
+      "score": 7
+    },
+    "loser": {
+      "name": "Evangel Christian",
+      "id": "8218",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Seneca",
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "646",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "8285",
+      "score": 4
+    },
+    "loser": {
+      "name": "Highlands",
+      "id": "8282",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "14th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "636",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Franklin County",
+      "id": "8240",
+      "score": 3
+    },
+    "loser": {
+      "name": "South Oldham",
+      "id": "8236",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Western Hills",
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "663",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Greenwood",
+      "id": "8194",
+      "score": 3
+    },
+    "loser": {
+      "name": "Russellville",
+      "id": "8189",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "607",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Hopkinsville",
+      "id": "8169",
+      "score": 1
+    },
+    "loser": {
+      "name": "Lyon County",
+      "id": "8175",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Lyon Co. Jones Park",
+    "tournament": "2nd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "626",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Montgomery County",
+      "id": "8267",
+      "score": 4
+    },
+    "loser": {
+      "name": "Ashland Blazer",
+      "id": "8262",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Montgomery Co.",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "629",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Nelson County",
+      "id": "8232",
+      "score": 4
+    },
+    "loser": {
+      "name": "North Hardin",
+      "id": "8227",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Bardstown",
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "582",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Oneida Baptist Institute",
+      "id": "8302",
+      "score": 3
+    },
+    "loser": {
+      "name": "Somerset",
+      "id": "8309",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Pulaski Co.",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "611",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "8183",
+      "score": 5
+    },
+    "loser": {
+      "name": "Madisonville-North Hopkins",
+      "id": "8178",
+      "score": 3
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "3rd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "609",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro Catholic",
+      "id": "8182",
+      "score": 1
+    },
+    "loser": {
+      "name": "Henderson County",
+      "id": "8176",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Owensboro",
+    "tournament": "3rd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "584",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "8306",
+      "score": 5
+    },
+    "loser": {
+      "name": "North Laurel",
+      "id": "8301",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": "Pulaski Co.",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "624",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Russell",
+      "id": "8264",
+      "score": 6
+    },
+    "loser": {
+      "name": "Mason County",
+      "id": "8266",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Montgomery Co.",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "669",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Seneca",
+      "id": "8222",
+      "score": 7
+    },
+    "loser": {
+      "name": "Pleasure Ridge Park",
+      "id": "8217",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "617",
+    "date": "2000-10-24",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "8207",
+      "score": 2
+    },
+    "loser": {
+      "name": "Eastern",
+      "id": "8212",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Ballard",
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "658",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Boone County",
+      "id": "8270",
+      "score": 5
+    },
+    "loser": {
+      "name": "Ryle",
+      "id": "8273",
+      "score": 4
+    },
+    "location": "neutral",
+    "neutralSite": "Scott",
+    "tournament": "13th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "670",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Butler",
+      "id": "8214",
+      "score": 2
+    },
+    "loser": {
+      "name": "Seneca",
+      "id": "8222",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "7th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "631",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Danville",
+      "id": "8294",
+      "score": 4
+    },
+    "loser": {
+      "name": "Marion County",
+      "id": "8296",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Marion Co.",
+    "tournament": "15th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "623",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 4
+    },
+    "loser": {
+      "name": "East Jessamine",
+      "id": "8251",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "621",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Lexington Catholic",
+      "id": "8252",
+      "score": 4
+    },
+    "loser": {
+      "name": "Sayre",
+      "id": "8257",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Henry Clay",
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "580",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "8164",
+      "score": 3
+    },
+    "loser": {
+      "name": "Heath",
+      "id": "8157",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Marshall Co.",
+    "tournament": "1st Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "638",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Oldham County",
+      "id": "8234",
+      "score": 2
+    },
+    "loser": {
+      "name": "Western Hills",
+      "id": "8242",
+      "score": 0
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "619",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "8248",
+      "score": 3
+    },
+    "loser": {
+      "name": "Scott County",
+      "id": "8249",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Paul Dunbar",
+    "tournament": "10th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "613",
+    "date": "2000-10-25",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 2
+    },
+    "loser": {
+      "name": "DuPont Manual",
+      "id": "8198",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "DeSales",
+    "tournament": "5th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "628",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "8228",
+      "score": 2
+    },
+    "loser": {
+      "name": "Nelson County",
+      "id": "8232",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "8th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "664",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "8184",
+      "score": 2
+    },
+    "loser": {
+      "name": "Greenwood",
+      "id": "8194",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "4th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "622",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 1
+    },
+    "loser": {
+      "name": "Lexington Catholic",
+      "id": "8252",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "11th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "637",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Oldham County",
+      "id": "8234",
+      "score": 1
+    },
+    "loser": {
+      "name": "Franklin County",
+      "id": "8240",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Western Hills",
+    "tournament": "9th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "610",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Owensboro",
+      "id": "8183",
+      "score": 7
+    },
+    "loser": {
+      "name": "Owensboro Catholic",
+      "id": "8182",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": null,
+    "tournament": "3rd Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "583",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "8306",
+      "score": 2
+    },
+    "loser": {
+      "name": "Oneida Baptist Institute",
+      "id": "8302",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Pulaski Co.",
+    "tournament": "16th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "625",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Russell",
+      "id": "8264",
+      "score": 5
+    },
+    "loser": {
+      "name": "Montgomery County",
+      "id": "8267",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Montgomery Co.",
+    "tournament": "12th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "616",
+    "date": "2000-10-26",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Trinity (Louisville)",
+      "id": "8207",
+      "score": 3
+    },
+    "loser": {
+      "name": "Ballard",
+      "id": "8210",
+      "score": 1
+    },
+    "location": "away",
+    "neutralSite": null,
+    "tournament": "6th Region",
+    "isChampionship": false
+  },
+  {
+    "matchId": "677",
+    "date": "2000-10-27",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "8285",
+      "score": 3
+    },
+    "loser": {
+      "name": "Boone County",
+      "id": "8270",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 7-Covington Catholic",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "679",
+    "date": "2000-10-28",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bardstown",
+      "id": "8228",
+      "score": 3
+    },
+    "loser": {
+      "name": "Butler",
+      "id": "8214",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 4 - Bardstown",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "687",
+    "date": "2000-10-28",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Bowling Green",
+      "id": "8184",
+      "score": 3
+    },
+    "loser": {
+      "name": "Owensboro",
+      "id": "8183",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 2 - Bowling Green",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "683",
+    "date": "2000-10-28",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 3
+    },
+    "loser": {
+      "name": "Russell",
+      "id": "8264",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 6 - Russell",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "689",
+    "date": "2000-10-28",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "8164",
+      "score": 1
+    },
+    "loser": {
+      "name": "Hopkinsville",
+      "id": "8169",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 1 - Hopkinsville",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "685",
+    "date": "2000-10-28",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Paul Laurence Dunbar",
+      "id": "8248",
+      "score": 1
+    },
+    "loser": {
+      "name": "Oldham County",
+      "id": "8234",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 5 - Paul Dunbar",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "675",
+    "date": "2000-10-28",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Pulaski County",
+      "id": "8306",
+      "score": 2
+    },
+    "loser": {
+      "name": "Danville",
+      "id": "8294",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 8 - Pulaski County",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "681",
+    "date": "2000-10-28",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 3
+    },
+    "loser": {
+      "name": "Trinity (Louisville)",
+      "id": "8207",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Sub-Section 3 -Trinity (Louisville",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "676",
+    "date": "2000-10-31",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Covington Catholic",
+      "id": "8285",
+      "score": 3
+    },
+    "loser": {
+      "name": "Pulaski County",
+      "id": "8306",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Section 4 - Pulaski County",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "684",
+    "date": "2000-10-31",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 3
+    },
+    "loser": {
+      "name": "Paul Laurence Dunbar",
+      "id": "8248",
+      "score": 0
+    },
+    "location": "neutral",
+    "neutralSite": "Section 3 - Henry Clay",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "688",
+    "date": "2000-10-31",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Marshall County",
+      "id": "8164",
+      "score": 3
+    },
+    "loser": {
+      "name": "Bowling Green",
+      "id": "8184",
+      "score": 2
+    },
+    "location": "neutral",
+    "neutralSite": "Section 1 - Bowling Green",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "680",
+    "date": "2000-10-31",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 2
+    },
+    "loser": {
+      "name": "Bardstown",
+      "id": "8228",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Section 2 - Bardstown",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "686",
+    "date": "2000-11-02",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 4
+    },
+    "loser": {
+      "name": "Marshall County",
+      "id": "8164",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Georgetown College",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "678",
+    "date": "2000-11-02",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 2
+    },
+    "loser": {
+      "name": "Covington Catholic",
+      "id": "8285",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Georgetown College",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  },
+  {
+    "matchId": "682",
+    "date": "2000-11-04",
+    "year": 2000,
+    "gender": "boys",
+    "winner": {
+      "name": "St. Xavier",
+      "id": "8199",
+      "score": 2
+    },
+    "loser": {
+      "name": "Henry Clay",
+      "id": "8255",
+      "score": 1
+    },
+    "location": "neutral",
+    "neutralSite": "Georgetown College",
+    "tournament": "Boys Soccer State Tournament",
+    "isChampionship": false
+  }
+]
