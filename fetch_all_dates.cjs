@@ -13,7 +13,7 @@ const SPORTS = [
 ]
 
 const START_YEAR = 2000
-const END_YEAR   = 2006
+const END_YEAR   = 2026
 
 // Helpers
 
